@@ -63,9 +63,10 @@ Wie man sieht gibt es tausende an möglichen Szenarien und der Spieler entscheid
 
 == Der Einfluss von Film
 
-Als die ersten Videospielautomaten in die Spielhallen kamen gab es bereits eine 70-Jährige Filmgeschichte.
-Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert. Aufgrund der begrenzten technischen Möglichkeiten der frühen Spielcomputer wird die Handlung oder Spielsituation durch Bilder und Erläuterungen auf dem Spielautomaten dargestellt.
-Sehr früh kamen dann Adaptionen Filmischer Standartsituationen, wie zum Beispiel der Angriff von auserirdischen in Space Invaders oder der Adaption von King Kong Filme im Spiel Donky Kong.
+Wie Pöhnert schreibt, gab es bereits eine 70-Jährige Film geschichte als die ersten Videospiele auftauchten.
+Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert.
+Pöhnert sagt: "_Aufgrund der begrenzten technischen Möglichkeiten der frühen Spielcomputer wird die Handlung oder Spielsituation durch Bilder und Erläuterungen auf dem Spielautomaten dargestellt._"
+Sehr früh kamen dann Adaptionen Filmischer Standardsituationen, wie zum Beispiel der Angriff von auserirdischen in Space Invaders oder der Adaption der King Kong Filme im Spiel Donky Kong.
 Durch den Vertrieb von Heimkonsolen konnten nun komplexere Spielszenarien entwickelt werden, da man den Spielstand auf einer Heimkonsole abspeichern konnte.
 Das erste Videospiel-Adventure, Adventure, erinnert eher an einen interaktiven Roman als an einen Film, da hier aufgrund technischer Einschränkungen nicht mit einer grafischen Darstellung gearbeitet wurde, sondern nur mit Text.
 Jedoch erscheien bald Spiele mit einer Grafischen oberfkäche.
