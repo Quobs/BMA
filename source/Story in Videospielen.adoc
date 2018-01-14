@@ -1,5 +1,7 @@
 = Story in Videogames
 
+== Geschichten gab es schon immer
+
 Wieso gibt es überhaupt eine Geschichte in Videogames?
 Nun Menschen haben schon immer gefallen an interessanten Geschichten gezeigt.
 Menschen erzählen sich seit jeher Geschichten. In Theater, Kino, Gedichte, Literatur, Lieder und nun auch in Games.
@@ -16,6 +18,8 @@ Später kamen weiter Textadventures besonders bekannt war die Zork von der Firma
 In den 80er Jahren wurden dann Textadventures von Grafik-Adventures abgelöst.
 Mit den Grafik und Textadventures hat man dann angefangen in Games Geschichten zu erzählen und bald danach sind Role-Playing Games dazugekommen.
 
+== Linearität
+
 Im Theater oder in Literatur wird eine Geschichte Linear erzählt jedoch in einem Game gibt es die Möglichkeit eine Non-Lineare Geschichte zu erzählen.
 Früher im Griechischen Theater gab es eine Einheit von Raum und Zeit das heisst wenn das Theater zwei Stunden lang dauert so dauert auch die Geschichte die erzählt wird zwei Stunden lang, später hat man mit Szenenwechsel Zeitsprünge vornehmen können.
 Bei einem Spiel kann man dies noch extremer tun indem man nicht nur die Zeit «aufbricht», sondern auch der Geschichte Freien lauf geben.
@@ -25,6 +29,8 @@ Es gibt auch Techniken den Spieler etwas in Schranken zu halten.
 Der Spieler muss einen bestimmten Bereich erreichen um in der Story weiter zu kommen.
 Es gibt auch Games die keine Story von einem Autor haben, sondern die Geschichte wird komplett automatisch generiert.
 Aufgrund von Reaktionen was der Spieler macht.
+
+== Filmregisseure über Games
 
 In einem Interview das Bryan Bishop mit Steven Spielberg und Gorge Lucas geführt hat, wird über Storytelling in Games diskutiert.
 «"Telling a story, it’s a very complicated process," he said.
