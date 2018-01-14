@@ -1,0 +1,30 @@
+= Interactive Fiction & Adventure
+
+== Interactive Fiction
+
+Interactive Fiction, auch bekannt als Textadventures, ist ein Spielegenre, indem man nur mit Hilfe von Texten eine Geschichte Erzählt.
+Das Game Play besteht dabei im Aussuchen von Antworten oder selber etwas einzugeben.
+Es gibt einen jährlichen Wettbewerb in dem gute Textadventures mit aussergewöhnlichen Erzählweisen, ausgezeichnet werden.
+Bekannte Beispiele dafür sind zum Beispiel, das 1988 erschienene Game namens Corruption, in welchem man als Insider einen Kriminalfall lösen musste.
+Ein weiteres Beispiel wäre Galatea.
+In diesem Spiel musste man an einer Stelle mit der Statue einer Göttin sprechen und Infos aus ihr rausholen.
+Die Schwierigkeit dabei war, dafür zu sorgen, dass sie nicht gelangweilt wurde. Denn wäre dies der Fall, hätte sie nicht weiter mit einem geredet.
+
+== Adventure
+
+Adventures oder auch Abenteuerspiele sind Games, denen eine Story zu Grunde liegt und meist Einzelspieler Spiele sind.
+Oft ist es verbunden mit Erkundung und Rätseln.
+In gewissen Elementen kommt es dem RPG Genre sehr nahe.
+Anders als in den Textadventures steht hier das erzählen durch Grafik und Sound im Vordergrund.
+Am Anfang war das noch schwarze Flächen mit ein paar Strichen.
+Heute hingegen kann man mit Grafik alleine sehr viel erzählen und es sieht auch sehr schön aus.
+
+.Mystery House (1980)
+image::images/Mysteryhouse.png[Mysterhouse, pdfwidth=33%,align=center]
+
+In den 90er Jahren starb das Adventure Genre fast aus, weil durch technischen Fortschritt neue Genres ans Tageslicht kamen.
+Ego-Schooter wie Quake und Doom regierten den Markt.
+Im neuen Jahrtausend aber kamen die Adventures zurück auf die Bühne und feiern bis heute grosse Erfolge.
+Nicht nur das, gewisse gelten sogar als Kult Klassiker.
+So auch The Walking Dead von Telltale Games, dies  ist ein episodisches Spiel, welches eine packende und Herz zerreissende Geschichte erzählt.
+Der Spieler wird gezwungen schwere Entscheidungen zu treffen, die Charaktere das Leben kosten könnten.

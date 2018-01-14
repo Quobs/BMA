@@ -31,9 +31,9 @@ include::Fragestellung und Hypothese.adoc[]
 
 include::Motivation.adoc[]
 
-// dungeons & dragons
+include::Von Dungeons and Dragons zu RPG's.adoc[]
 
-// include::Interactive Fiction
+include::Interactive Fiction und Adventure.adoc[]
 
 include::Story in Videospielen.adoc[]
 
