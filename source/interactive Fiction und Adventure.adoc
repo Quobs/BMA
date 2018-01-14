@@ -20,7 +20,7 @@ Am Anfang war das noch schwarze Flächen mit ein paar Strichen.
 Heute hingegen kann man mit Grafik alleine sehr viel erzählen und es sieht auch sehr schön aus.
 
 .Mystery House (1980)
-image::images/Mysteryhouse.png[Mysterhouse, pdfwidth=33%,align=center]
+image::images/Mysteryhouse.png[Mysterhouse, pdfwidth=50%,align=center]
 
 In den 90er Jahren starb das Adventure Genre fast aus, weil durch technischen Fortschritt neue Genres ans Tageslicht kamen.
 Ego-Schooter wie Quake und Doom regierten den Markt.
