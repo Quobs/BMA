@@ -1,0 +1,51 @@
+= Story in Videogames
+
+Wieso gibt es überhaupt eine Geschichte in Videogames?
+Nun Menschen haben schon immer gefallen an interessanten Geschichten gezeigt.
+Menschen erzählen sich seit jeher Geschichten. In Theater, Kino, Gedichte, Literatur, Lieder und nun auch in Games.
+Bereits die Höhlenmenschen zeichneten ihre Erlebnisse an die Wände.
+Im Mittelalter hat man Theater stücke aufgeführt und Gedichte geschrieben.
+Es ist der Inhalt, der den Menschen packt und interessiert.
+Schon als Kinder lieben wir es Geschichten zu hören.
+
+== Der Anfang von Geschichten in Videospielen
+
+Games haben vielleicht mit Geschicklichkeit und Denkspielen angefangen jedoch sind Adventures sehr schnell dazu gekommen.
+Das erste bekannte Adventure ist 1975 erscheinen es ist ein reines Textadventure und heisst «Adventure».
+Später kamen weiter Textadventures besonders bekannt war die Zork von der Firma Inform. ä
+In den 80er Jahren wurden dann Textadventures von Grafik-Adventures abgelöst.
+Mit den Grafik und Textadventures hat man dann angefangen in Games Geschichten zu erzählen und bald danach sind Role-Playing Games dazugekommen.
+
+Im Theater oder in Literatur wird eine Geschichte Linear erzählt jedoch in einem Game gibt es die Möglichkeit eine Non-Lineare Geschichte zu erzählen.
+Früher im Griechischen Theater gab es eine Einheit von Raum und Zeit das heisst wenn das Theater zwei Stunden lang dauert so dauert auch die Geschichte die erzählt wird zwei Stunden lang, später hat man mit Szenenwechsel Zeitsprünge vornehmen können.
+Bei einem Spiel kann man dies noch extremer tun indem man nicht nur die Zeit «aufbricht», sondern auch der Geschichte Freien lauf geben.
+Man verändert die Geschichte je nach dem was man in dem Spiel macht.
+Für Storyteller ist es viel anspruchsvoller eine Non-Lineare Geschichte zu schreiben in dem sie dem Spieler die Entscheidung lassen was und wann er es erlebt.
+Es gibt auch Techniken den Spieler etwas in Schranken zu halten.
+Der Spieler muss einen bestimmten Bereich erreichen um in der Story weiter zu kommen.
+Es gibt auch Games die keine Story von einem Autor haben, sondern die Geschichte wird komplett automatisch generiert.
+Aufgrund von Reaktionen was der Spieler macht.
+
+In einem Interview das Bryan Bishop mit Steven Spielberg und Gorge Lucas geführt hat, wird über Storytelling in Games diskutiert.
+«"Telling a story, it’s a very complicated process," he said.
+"You’re leading the audience along.
+You are showing them things.
+Giving them insights.
+It’s a very complicated construct and very carefully put together.
+If you just let everybody go in and do whatever they want then it’s not a story anymore.
+It’s simply a game."»
+George Lucas erklärt uns hier, dass es extrem schwer ist eine spannende Geschichte zu erzählen.
+Er sagt man führt die Zuschauer auf eine reise und zeigt ihnen was passiert.
+Es ist sehr Kompliziert und sehr vorsichtig zusammengeführt.
+Wenn man jetzt jeden einfach tuen lässt was man will ist es keine Story mehr, sondern einfach nur ein Game.
+Wir verstehen was uns Lucas hier sagen will, jedoch sehen wir dies etwas anders.
+Es ist nicht einfach nur ein Spiel sondern der Spieler selber wird zum gestallter der Geschichte und kann diese erleben wie er es für sich persönlich gerne hätte.
+Das Spiel Rimworld ist ein gutes Beispiel.
+Das Spiel startet idem man auswählt was für einen AI Storyteller man will, als nächstes wählt man sein Team aus, dann erfährt man etwas zur Vorgeschichte.
+Man ist aus einem Raumschiff abgestürzt und auf dieser neuen Welt gelandet.
+Mehr erfährt man nicht.
+Danach kann man selber entscheiden was man tut, eine Basis aufbauen ist meist die beste Idee, da die Team Mitglieder verschiedene Bedürfnisse haben.
+Sie brauchen ein Bett, ein Dach über dem Kopf, etwas zu Essen und so weiter.
+Nun können dinge passieren die vom AI Storyteller vorgegeben sind.
+Zum Beispiel könnte ein Tier in der Umgebung wild werden und alles angreifen was ihm in die Quere kommt oder ein teil eines Raumschiffes stürzt ab und ein schwer verletzter ist mit dabei, dann kann man selber entscheiden was man tut tötet man das wild gewordene Tier oder versucht man es aus dem Weg zu gehen, Hilft man der verletzten Person und lässt sie laufen oder sperrt man sie ein um sie möglicherweise in sein Team zu holen.
+Wie man sieht gibt es tausende an möglichen Szenarien und der Spieler entscheidet immer selber wie er mit gewissen Situationen um geht und wie sich die Geschichte des Teams weiterentwickelt.
