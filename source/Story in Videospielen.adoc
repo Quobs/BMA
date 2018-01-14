@@ -62,3 +62,16 @@ Zum Beispiel könnte ein Tier in der Umgebung wild werden und alles angreifen wa
 Wie man sieht gibt es tausende an möglichen Szenarien und der Spieler entscheidet immer selber wie er mit gewissen Situationen um geht und wie sich die Geschichte des Teams weiterentwickelt.
 
 == Der Einfluss von Film
+
+Als die ersten Videospielautomaten in die Spielhallen kamen gab es bereits eine 70-Jährige Filmgeschichte.
+Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert. Aufgrund der begrenzten technischen Möglichkeiten der frühen Spielcomputer wird die Handlung oder Spielsituation durch Bilder und Erläuterungen auf dem Spielautomaten dargestellt.
+Sehr früh kamen dann Adaptionen Filmischer Standartsituationen, wie zum Beispiel der Angriff von auserirdischen in Space Invaders oder der Adaption von King Kong Filme im Spiel Donky Kong.
+Durch den Vertrieb von Heimkonsolen konnten nun komplexere Spielszenarien entwickelt werden, da man den Spielstand auf einer Heimkonsole abspeichern konnte.
+Das erste Videospiel-Adventure, Adventure, erinnert eher an einen interaktiven Roman als an einen Film, da hier aufgrund technischer Einschränkungen nicht mit einer grafischen Darstellung gearbeitet wurde, sondern nur mit Text.
+Jedoch erscheien bald Spiele mit einer Grafischen oberfkäche.
+Das auffälligste Merkmal der Videospiele zu diser zeit war die einfachheit der Grafik.
+
+Mit den immer besser werdender Technischen gegebenheiten finden sich heute in Videospielen immer längere und bessere Spielfilmartige Sequenzen.
+Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der erzählung der Geschichte beitragen.
+Jedoch können in ein Interaktives Spiel eingebaute Filmische Effekte mehr spannung aufbauen als eine eingeschobener Videosequenz.
+Zum Beispiel durch gänge rasende Ich-Perspektiven in "DOOM" oder das Hoch und Hinabstürzen von Treppen in "Silent Hill".
