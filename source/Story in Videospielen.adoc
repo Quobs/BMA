@@ -32,7 +32,7 @@ Aufgrund von Reaktionen was der Spieler macht.
 
 == Filmregisseure über Games
 
-In einem Interview das Bryan Bishop mit Steven Spielberg und Gorge Lucas geführt hat, wird über Storytelling in Games diskutiert.
+In einem Interview das <<bishop>> mit Steven Spielberg und Gorge Lucas geführt hat, wird über Storytelling in Games diskutiert.
 «"Telling a story, it’s a very complicated process," he said.
 "You’re leading the audience along.
 You are showing them things.
