@@ -32,7 +32,7 @@ Aufgrund von Reaktionen was der Spieler macht.
 
 == Filmregisseure über Games
 
-In einem Interview das <<bishop>> mit Steven Spielberg und Gorge Lucas geführt hat, wird über Storytelling in Games diskutiert.
+In einem Interview das <<bishop>> mit Steven Spielberg und George Lucas geführt hat, wird über Storytelling in Games diskutiert.
 
 [quote]
 --
@@ -60,6 +60,50 @@ Sie brauchen ein Bett, ein Dach über dem Kopf, etwas zu Essen und so weiter.
 Nun können dinge passieren die vom AI Storyteller vorgegeben sind.
 Zum Beispiel könnte ein Tier in der Umgebung wild werden und alles angreifen was ihm in die Quere kommt oder ein teil eines Raumschiffes stürzt ab und ein schwer verletzter ist mit dabei, dann kann man selber entscheiden was man tut tötet man das wild gewordene Tier oder versucht man es aus dem Weg zu gehen, Hilft man der verletzten Person und lässt sie laufen oder sperrt man sie ein um sie möglicherweise in sein Team zu holen.
 Wie man sieht gibt es tausende an möglichen Szenarien und der Spieler entscheidet immer selber wie er mit gewissen Situationen um geht und wie sich die Geschichte des Teams weiterentwickelt.
+
+George Lucas sagte auch:
+
+[quote]
+--
+"Storytelling is about two things," he said.
+"It’s about character and plot."
+Character is what movies and television offer, he said, but it’s a concept the gaming industry is just now discovering.
+"Like sports. It’s about Tebow.
+It’s about, you know, Kobe.
+They’re starting to realize that if they focus on the characters it makes the game much richer."
+
+"But by its very nature there cannot be a plot in a game.
+You can’t plot out a football game.
+You can’t plot out feeding Christians to lions.
+It’s not a plot."
+--
+
+Storytelling besteht nach George Lucas aus zwei dingen und zwar Charaktere und der Handlung.
+Charakter ist was man in Filmen und im TV hat.
+Dies ist etwas was die Spieleindustrie gerade für sich entdeckt.
+Es sei wie im Sport, es geht um Tebow(bekannter Football-Spieler).
+Es geht um Kobe(bekannter Basketball-spieler)
+Die Spieleindustrie merkt jetzt das wenn sie sich auf die Charakter konzentrieren es das Spiel viel interesannter macht.
+
+Jedoch kann es in einem Spiel keine Handlung geben, es ist einfach so.
+Man kann ein Footballspiel nicht Planen.
+Man kann nicht planen das Christen Löwen zum frass vorgeworfen werden.
+
+Nun auch diese aussage finden wir etwas Fragwürdig.
+Für uns kann es auch in einem Spiel eine gute Handlung haben.
+Man nehme "The Witcher 3: The Wild Hunt" als Beispiel, ein Spiel welches auf einem Roman basiert.
+Jedoch sind wir uns sicher das jeder der das Spiel gespielt und das Buch gelesen hat sagen wird das in dem Spiel die Story viel besser rüber kommt als im Buch.
+Im Spiel geht es um Geralt von Riva der seine Tochter sucht.
+Auf der Suche nach seiner Tochter muss Geralt viele Abenteuer bestreiten.
+Er ist ein sogenanter Witcher, welcher spezielle fähigkeiten hat.
+Im Spiel werden neben der Hauptstory auch noch sehr viele zusatz Geschichten erzählt.
+Zum Beispiel die Geschichte des Roten Barons.
+Da der Rote Baron Ciri gesehen hat bittet Geralt den Baron ihm hinweise zu geben wo Ciri sein könnte.
+Jedoch benötigt der Baron seine Hilfe.
+Auch seine Tochter und Frau sind verschwunden und er soll sie für ihn finden. 
+Es gibt auch sehr gute beispiele von Spiele die nicht auf einem Buch basieren.
+Die "Mass Effect" Reihe welche eine sehr tiefgründige Story erzählt.
+Eines der besten Beispiele unserer Meinung nach ist die "The walking dead" Reihe in der eine packende Geschichte erzählt wird und man wie gebannt vor dem Bildschirm sitzt und mit Fiebert.
 
 == Der Einfluss von Film
 
