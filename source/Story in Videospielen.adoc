@@ -33,13 +33,18 @@ Aufgrund von Reaktionen was der Spieler macht.
 == Filmregisseure über Games
 
 In einem Interview das <<bishop>> mit Steven Spielberg und Gorge Lucas geführt hat, wird über Storytelling in Games diskutiert.
-«"Telling a story, it’s a very complicated process," he said.
+
+[quote]
+--
+"Telling a story, it’s a very complicated process," he said.
 "You’re leading the audience along.
 You are showing them things.
 Giving them insights.
 It’s a very complicated construct and very carefully put together.
 If you just let everybody go in and do whatever they want then it’s not a story anymore.
-It’s simply a game."»
+It’s simply a game."
+--
+
 George Lucas erklärt uns hier, dass es extrem schwer ist eine spannende Geschichte zu erzählen.
 Er sagt man führt die Zuschauer auf eine reise und zeigt ihnen was passiert.
 Es ist sehr Kompliziert und sehr vorsichtig zusammengeführt.
