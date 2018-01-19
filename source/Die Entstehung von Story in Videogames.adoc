@@ -7,8 +7,9 @@ Das Game Play besteht dabei im Aussuchen von Antworten oder selber etwas einzuge
 Es gibt einen jährlichen Wettbewerb in dem gute Textadventures mit aussergewöhnlichen Erzählweisen, ausgezeichnet werden.
 Bekannte Beispiele dafür sind zum Beispiel, das 1988 erschienene Game namens Corruption, in welchem man als Insider einen Kriminalfall lösen musste.
 Ein weiteres Beispiel wäre Galatea.
-In diesem Spiel musste man an einer Stelle mit der Statue einer Göttin sprechen und Infos aus ihr rausholen.
-Die Schwierigkeit dabei war, dafür zu sorgen, dass sie nicht gelangweilt wurde. Denn wäre dies der Fall, hätte sie nicht weiter mit einem geredet.
+In diesem Spiel muss man an einer Stelle mit der Statue einer Göttin sprechen und Infos aus ihr rausholen.
+Die Schwierigkeit dabei war, dafür zu sorgen, dass sie nicht gelangweilt wurde.
+Denn wäre dies der Fall, hätte sie nicht weiter mit einem geredet.
 
 == Adventure
 
@@ -53,7 +54,7 @@ Speicherplatz war zu dieser Zeit sehr wertvoll, deshalb hatten Universitäten ei
 Das heisst das fast alle zu dieser Zeit entwickelten Rollenspiele gelöscht wurden.
 Das älteste noch erhaltene Rollenspiel heist "dnd" und wurde 1974 an der Universität Illinois entwickelt.
 Heute gibt es diese Rollenspiele immer noch, auch wenn das Genre nicht mehr so gross ist wie vor ein paar Jahren.
-Ein gutes Beispiel für ein Videospiel welches noch sehr klare Verwantschaften mit "Dungons and Dragons" hat ist "Divinity: Orignial sin 2", welches im Herbst 2017 erscheien ist.
+Ein gutes Beispiel für ein Videospiel welches noch sehr klare Verwantschaften mit "Dungons and Dragons" hat ist "Divinity: Orignial Sin 2", welches im Herbst 2017 erscheien ist.
 Im Spiel gibt es sogar eine Funktion ein Pen and Paper Spiel mit seinen Freunden zu spielen.
 Der Stift und das Papier ist zwar nicht vorhanden aber dennoch ist es fast identisch zu dem Orginal.
 Das gute ist man muss sich die Abenteuer nicht vorstellen, sondern man erlebt sie am Bildschirm mit.
