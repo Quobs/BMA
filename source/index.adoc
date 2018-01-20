@@ -16,6 +16,9 @@ Tenzin Bhusethang <tbd>
 :pdf-style: pdf.yaml
 :figure-caption: Abbildung
 
+:math:
+:stem: latexmath
+
 toc::[]
 
 :numbered:
@@ -33,9 +36,9 @@ include::Motivation.adoc[]
 
 // include::Dungeon_Dragon_RPG.adoc[]
 
-include::Die entwicklung von Storys in Videogames.adoc[]
-
 include::Die Entstehung von Story in Videogames.adoc[]
+
+include::Auswertung der Umfrage.adoc[]
 
 // include::Interactive Fiction und Adventure.adoc[]
 

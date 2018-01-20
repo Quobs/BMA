@@ -1,3 +1,4 @@
+:stem: latexmath
 = Einleitung
 
 Games gibt es wie Sand am Meer und wie auch dort können Muscheln, die Perlen enthalten, gefunden werden.
@@ -11,3 +12,7 @@ Durch ihre Bemühungen lebt das Spiel fast fünf Jahre später immer noch und da
 Die Gaming-Industrie macht einen spürbaren Wandel durch. So werden Einzelspieler-Kampagnen kürzer und die Story weniger stark gewichtet.
 Was heute zählt, ist die Grafik und die Online Funktionen. Während ältere Gamer dies bedauern, sind viele der Jungen umso glücklicher.
 Doch kann dies von uns wirklich so verallgemeinert werden? In dieser Berufsmaturitätsarbeit soll unter anderem dieser Frage und dem genannten Wandel nachgegangen werden.
+
+stem:[\cos (2\theta) = \cos^2 \theta - \sin^2 \theta]
+
+
