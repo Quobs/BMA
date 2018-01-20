@@ -31,9 +31,13 @@ include::Fragestellung und Hypothese.adoc[]
 
 include::Motivation.adoc[]
 
-include::Dungeon_Dragon_RPG.adoc[]
+// include::Dungeon_Dragon_RPG.adoc[]
 
-include::Interactive Fiction und Adventure.adoc[]
+include::Die entwicklung von Storys in Videogames.adoc[]
+
+include::Die Entstehung von Story in Videogames.adoc[]
+
+// include::Interactive Fiction und Adventure.adoc[]
 
 include::Story in Videospielen.adoc[]
 
