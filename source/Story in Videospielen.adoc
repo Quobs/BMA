@@ -13,8 +13,8 @@ Schon als Kinder lieben wir es Geschichten zu hören.
 == Der Anfang von Geschichten in Videospielen
 
 Games haben vielleicht mit Geschicklichkeit und Denkspielen angefangen jedoch sind Adventures sehr schnell dazu gekommen.
-Das erste bekannte Adventure ist 1975 erscheinen es ist ein reines Textadventure und heisst «Adventure».
-Später kamen weiter Textadventures, besonders bekannt war die Zork-Reihe von der Firma Inform.
+Das erste bekannte Adventure ist 1975 erscheinen es ist ein reines Textadventure und heisst _Adventure_.
+Später kamen weiter Textadventures, besonders bekannt war die _Zork_-Reihe von der Firma Inform.
 In den 80er Jahren wurden dann Textadventures von Grafik-Adventures abgelöst.
 Mit den Grafik und Textadventures hat man dann angefangen in Games Geschichten zu erzählen und bald danach sind Role-Playing Games dazugekommen.
 
@@ -51,7 +51,7 @@ Es ist sehr kompliziert und sehr vorsichtig zusammengeführt.
 Wenn man jetzt jeden einfach tun lässt was man will ist es keine Story mehr, sondern einfach nur ein Spiel.
 Wir verstehen was uns Lucas hier sagen will, jedoch sehen wir dies etwas anders.
 Es ist nicht einfach nur ein Spiel sondern der Spieler selber wird zum gestallter der Geschichte und kann diese erleben wie er es für sich persönlich gerne hätte.
-Das Spiel Rimworld ist ein gutes Beispiel.
+Das Spiel _Rimworld_ ist ein gutes Beispiel.
 Das Spiel startet idem man auswählt was für einen AI Storyteller man will, als nächstes wählt man sein Team aus, dann erfährt man etwas zur Vorgeschichte.
 Man ist aus einem Raumschiff abgestürzt und auf dieser neuen Welt gelandet.
 Mehr erfährt man nicht.
@@ -91,7 +91,7 @@ Man kann nicht planen das Christen Löwen zum frass vorgeworfen werden.
 
 Nun auch diese aussage finden wir etwas fragwürdig.
 Für uns kann es auch in einem Spiel eine gute Handlung haben.
-Man nehme "The Witcher 3: The Wild Hunt" als Beispiel, ein Spiel welches auf einem Roman basiert.
+Man nehme _The Witcher 3: The Wild Hunt_ als Beispiel, ein Spiel welches auf einem Roman basiert.
 Jedoch sind wir uns sicher das jeder der das Spiel gespielt und das Buch gelesen hat sagen wird das in dem Spiel die Story viel besser rüber kommt als im Buch.
 Im Spiel geht es um Geralt von Riva der seine Tochter Ciri sucht.
 Auf der Suche nach Ciri muss Geralt viele Abenteuer bestreiten.
@@ -102,8 +102,8 @@ Da der Rote Baron Ciri gesehen hat bittet Geralt den Baron ihm hinweise zu geben
 Jedoch benötigt der Baron seine Hilfe.
 Auch seine Tochter und Frau sind verschwunden und er soll sie für ihn finden.
 Es gibt auch sehr gute beispiele von Spiele die nicht auf einem Buch basieren.
-Die "Mass Effect" Reihe welche eine sehr tiefgründige Story erzählt.
-Eines der besten Beispiele unserer Meinung nach ist die "The walking dead" Reihe in der eine packende Geschichte erzählt wird und man wie gebannt vor dem Bildschirm sitzt und mit Fiebert.
+Die _Mass Effect_- Reihe welche eine sehr tiefgründige Story erzählt.
+Eines der besten Beispiele unserer Meinung nach ist die _The walking dead_-Reihe in der eine packende Geschichte erzählt wird und man wie gebannt vor dem Bildschirm sitzt und mit Fiebert.
 
 == Der Einfluss von Film
 
@@ -116,4 +116,4 @@ Das heisst früher musste man die Geschichten mit klötzen darstellen während w
 Mit den immer besser werdender Technischen gegebenheiten finden sich heute in Videospielen immer längere und bessere Spielfilmartige Sequenzen.
 Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der erzählung der Geschichte beitragen.
 Jedoch können in ein Interaktives Spiel eingebaute Filmische Effekte mehr spannung aufbauen als eine eingeschobene Videosequenz.
-Zum Beispiel durch gänge rasende Ich-Perspektiven in "DOOM" oder das Hoch und Hinabstürzen von Treppen in "Silent Hill".
+Zum Beispiel durch gänge rasende Ich-Perspektiven in _DOOM_ oder das Hoch und Hinabstürzen von Treppen in _Silent Hill_.

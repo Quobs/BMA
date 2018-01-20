@@ -1,4 +1,4 @@
-= Die Entwicklung von Storys in Videogames
+= Auswertung der Umfrage
 
 == Einführung
 
@@ -50,10 +50,10 @@ Nun zum schluss fragten wir welches Spiel die beste Story ihrer meinung nach hab
 Wir bekammen entliche Antworten und sehen einige verbindungen zu unserer Arbeit.
 Um die Antworten etwas zu Gliedern haben wir Spiele Reihen als eine Antwort gesehen.
 Zudem haben wir Witz antwoerten wie Candy Crush oder Tetris nicht zur kenntnis genommen.
-Die absolute Top-antwort war The Witcher 3: Wild Hunt mit 14 Pukten.
-Die zweit meisste Antwort war die Mass Effect Reihe (ohne Mass Effect Andromeda) mit 5 Punkten.
-Half-Life 2 und The last of us Teilen sich den dritten Platz mit 4 Punkten.
-Danach gibt es sehr viele Antworten mit 3 Punkten wie Life is Strange, Metal Gear Solid-Reihe, Day of the Tentacle und die Untchartet Reihe.
+Die absolute Top-antwort war _The Witcher 3: Wild Hunt_ mit 14 Pukten.
+Die zweit meisste Antwort war die _Mass Effect_-Reihe (ohne _Mass Effect Andromeda_) mit 5 Punkten.
+_Half-Life 2_ und _The last of us_ Teilen sich den dritten Platz mit 4 Punkten.
+Danach gibt es sehr viele Antworten mit 3 Punkten wie _Life is Strange_, _Metal Gear Solid_-Reihe, _Day of the Tentacle_ und die _Untcharted_-Reihe.
 Da wir die Entwicklung untersuchen haben wir versucht die Spiele zu gliedern in die Jahre in der sie erscheinen sind.
 Wir habe sie nach Jahrzehnte sortiert und sehr erstaunt gemerkt das die meissten der gennanten Spiele in diesem Jahrzehnt erschienen sind.
 Das heisst die meissten Spiele die in unserer Umfrage gennant wurden sind nach 2010 entwickelt worden.
