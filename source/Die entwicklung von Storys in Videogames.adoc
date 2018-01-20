@@ -1,6 +1,6 @@
 = Die Entwicklung von Storys in Videogames
 
-==
+== Einführung
 
 Unsere Fragestellung lautet: "Hat sich die Relevanz der Story-Line der Games in den letzten 20 Jahren verändert?"
 Wir haben versucht dieser Frage in unserer Umfrage nachzugehen.
@@ -8,6 +8,9 @@ Um ein besseres Bild über die Befragten zu bekommen, waren Fragen nach dem Alte
 Die Leitfrage untersuchten wir mit Fragen nach dem Spiel mit der besten Story, wie wichtig Story in einem Videospiel ist und natürlich wie zufrieden sie mit der Story in heutigen Games sind.
 Wir haben die Umfrage in verschiedene Gaming-Foren gestellt, Auf Twitter und Facebook verbreitet und es an Freunde und Familie geschickt.
 Insgesamt haben über 100 Personen an der Umfrage Teilgenommen.
+
+== Kritik der Umfrage
+
 Uns ist bewusst, dass diese Umfrage nicht Representativ ist, weil nur wenige Teilnehemer, die diese Umfrage auch selber beantworten (Selbstselektion) wollten teilnahmen.
 Die Selbstselektion ist unserer Meinung nach kein Problem, weil sich die Umfrage an Gamer wendet und darum auch nur Leute mit affienität zum Spielen teilgenommen haben.
 Um die Qualität der Ausagen zu Quantifizieren haben wir den Standartfehler berrechnet, der Standartfehler ist zwei mal die Standerabweichung die wir wie folgt berechnen: Wir nehmen an das die Antworten aus der Umfrage gleichartig und unabhängig voneinander sind und deshalb Binominal verteilt sind.
@@ -17,6 +20,9 @@ Die Standartabweichung verändert sich mit der grösse P.
 Für die verscheidenen Fragen in unserer Umfrage schwankt die Standartabweichung zwichen 0.029 (für grosse P) und 0.045 (für P nahe 0.5).
 Der Standartfehler ist also zwischen 0.04 und 0.09.
 Der einfachheit halber rechenen wir durchgehend mit einem Fehler von ≈ 0.075.
+
+== Analyse der Ergebnisse
+
 An unserer Umfrage haben 85% männliche Personen und 15% Weibliche Teilgenommen.
 Fast 80% der Teilnehemer waren über 23 Jahre alt davon 45% soga über 30 Jahre alt.
 Wie man sieht ist der Hauptteil unseres Teilnehmerfeldes eher älter, was für uns gut ist, weil wir aus der Umfrage eine einschätzung für das Gamen in den letzten 20 Jahren erhalten.
@@ -31,8 +37,9 @@ Da die Frage mehere Antwoertsmöglichkeiten hatte, haben wir zudem erfahren das 
 Nur etwa 10% ist eher uninteresiert an der Story eines Spiels.
 Nun kommt eine der Wichtigsten Fragen der Umfrage, wir fragten:"Bist du mit der Storyline in Spielen seit 2012 zufreiden."
 Die Antwoert hat uns sehr überascht.
-
-
+Die meisten sagten das sie im allgemeinen zufrieden sind mit Storys in neuen Videospielen.
+Klar gab es auch antworten die sagten das sie nicht zufrieden sind unsogar eine die ganz unzufrieden ist.
+Was auch nich interessant ist, dass niemand die 10 angekreuzt hat, also keiner der Befragten ist zu 100% zufrieden, es hat potential für verbesserung.
 Ca. ein Drittel der Befragten erlebt eine Story leiber alleine in einem Singleplayer Spiel, wobei der rest die Story auch gerne im Multiplayer mit Mitspielern erlebt.
 Was braucht eine gute Story, nun fast alle der Befragten waren sich einig das gute Charakter und Spannung sehr wichtige Elemente eines Videospiels sind.
 Emotionen waren auch hoch mit dabei.
@@ -47,3 +54,11 @@ Die absolute Top-antwort war The Witcher 3: Wild Hunt mit 14 Pukten.
 Die zweit meisste Antwort war die Mass Effect Reihe (ohne Mass Effect Andromeda) mit 5 Punkten.
 Half-Life 2 und The last of us Teilen sich den dritten Platz mit 4 Punkten.
 Danach gibt es sehr viele Antworten mit 3 Punkten wie Life is Strange, Metal Gear Solid-Reihe, Day of the Tentacle und die Untchartet Reihe.
+Da wir die Entwicklung untersuchen haben wir versucht die Spiele zu gliedern in die Jahre in der sie erscheinen sind.
+Wir habe sie nach Jahrzehnte sortiert und sehr erstaunt gemerkt das die meissten der gennanten Spiele in diesem Jahrzehnt erschienen sind.
+Das heisst die meissten Spiele die in unserer Umfrage gennant wurden sind nach 2010 entwickelt worden.
+Insgesamt wurden 19 Spiele aus den Jahren 2010-2018 genannt.
+Von 2000-2009 waren es 16 genannte Spiele, von 1990-1999 sechs Spiele und von 1980-1989 waren es noch zwei Spiele.
+Als nächstes Sortierten wir sie nach Genre.
+Da teilen sich die Adventures und die Rollenspiele die selbe anzahl an erwähnungen, 15 Adventures und 15 Rollenspiele wurden genannt.
+Dazu kammen noch drei Shooter swowie drei Jump'n'Run Spiele und zwei Strategie Spiele.
