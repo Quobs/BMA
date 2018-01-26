@@ -1,0 +1,60 @@
+= Die Entstehung von Storytelling in Videospielen
+
+== Interactive Fiction
+
+Interactive Fiction, auch bekannt als Textadventures, ist ein Spielegenre, indem man nur mit Hilfe von Texten eine Geschichte Erzählt.
+Das Game Play besteht dabei im Aussuchen von Antworten oder selber etwas einzugeben.
+Es gibt einen jährlichen Wettbewerb in dem gute Textadventures mit aussergewöhnlichen Erzählweisen, ausgezeichnet werden.
+Bekannte Beispiele dafür sind zum Beispiel, das 1988 erschienene Game namens Corruption, in welchem man als Insider einen Kriminalfall lösen musste.
+Ein weiteres Beispiel wäre Galatea.
+In diesem Spiel muss man an einer Stelle mit der Statue einer Göttin sprechen und Infos aus ihr rausholen.
+Die Schwierigkeit dabei war, dafür zu sorgen, dass sie nicht gelangweilt wurde.
+Denn wäre dies der Fall, hätte sie nicht weiter mit einem geredet.
+
+== Adventure
+
+Adventures oder auch Abenteuerspiele sind Games, denen eine Story zu Grunde liegt und meist Einzelspieler Spiele sind.
+Oft ist es verbunden mit Erkundung und Rätseln.
+In gewissen Elementen kommt es dem RPG Genre sehr nahe.
+Anders als in den Textadventures steht hier das erzählen durch Grafik und Sound im Vordergrund.
+Am Anfang war das noch schwarze Flächen mit ein paar Strichen.
+Heute hingegen kann man mit Grafik alleine sehr viel erzählen und es sieht auch sehr schön aus.
+
+.Mystery House (1980)
+image::images/Mysteryhouse.png[Mysterhouse, pdfwidth=50%,align=center]
+
+In den 90er Jahren starb das Adventure Genre fast aus, weil durch technischen Fortschritt neue Genres ans Tageslicht kamen.
+Ego-Schooter wie Quake und Doom regierten den Markt.
+Im neuen Jahrtausend aber kamen die Adventures zurück auf die Bühne und feiern bis heute grosse Erfolge.
+Nicht nur das, gewisse gelten sogar als Kult Klassiker.
+So auch The Walking Dead von Telltale Games, dies  ist ein episodisches Spiel, welches eine packende und Herz zerreissende Geschichte erzählt.
+Der Spieler wird gezwungen schwere Entscheidungen zu treffen, die Charaktere das Leben kosten könnten.
+
+
+== Dungons and Dragons
+
+Ich denke fast jeder hat schonmal von "Dungeons and Dragons" gehört.
+Wir verbinden es oft mit jungen Nerds die im Keller eingeschlossen mit ihren Freunden "Dungons und Dragons" spielen.
+Nun was ist den dieses omimöse "Dungeons and Dragons"?
+Es ist ein sogenantes Pen and Paper Rollenspiel und wie der Name schon verät spielt man es mit Papier und Stift.
+Der Spieler schlüpft in eine fiktive Rolle und erlebt mit seinen mit Spielern verschidene Abenteuer.
+Der Spielleiter ist wie der Erzähler in einem Buch oder Film und die Spieler verkörpern die Charaktere.
+Nun anstat das vorgegeben ist wie sich die Charaktere verhalten und was sie als nächstes tun entscheiden die Spieler selber was sie als nächstes machen.
+Man sieht klare zusammenhänge zu heuteigen Role-playing Games.
+Wie wir bereits erklärten wird der Spieler zum Gestallter der Geschichte und erlebt die Geschichte gleichzeitig mit.
+
+== Role-playing Games
+
+Die Wurzeln der RPG's stammen hauptsächlich aus den oben genannten Pen and Paper Rollenspielen.
+Jedoch übernimmt hier der Computer die Rolle des Spielleiter, welches natürlich Einschränkungen mit sich zieht.
+Hier ist es vorgschrieben was passiert duch die Spielentwickler.
+Die ersten Computer Rollenspiele entstanden mitte der 70er Jahre.
+Da Universitäten die einzigen Institutionen waren welche über eingeschränkt zugängige Rechner verfügten, waren es Studenten welche die ersten Rollenspiele Entwickelten.
+Speicherplatz war zu dieser Zeit sehr wertvoll, deshalb hatten Universitäten eine Strenge Löschplitik.
+Das heisst das fast alle zu dieser Zeit entwickelten Rollenspiele gelöscht wurden.
+Das älteste noch erhaltene Rollenspiel heist "dnd" und wurde 1974 an der Universität Illinois entwickelt.
+Heute gibt es diese Rollenspiele immer noch, auch wenn das Genre nicht mehr so gross ist wie vor ein paar Jahren.
+Ein gutes Beispiel für ein Videospiel welches noch sehr klare Verwantschaften mit "Dungons and Dragons" hat ist "Divinity: Orignial Sin 2", welches im Herbst 2017 erscheien ist.
+Im Spiel gibt es sogar eine Funktion ein Pen and Paper Spiel mit seinen Freunden zu spielen.
+Der Stift und das Papier ist zwar nicht vorhanden aber dennoch ist es fast identisch zu dem Orginal.
+Das gute ist man muss sich die Abenteuer nicht vorstellen, sondern man erlebt sie am Bildschirm mit.

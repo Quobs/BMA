@@ -1,0 +1,69 @@
+Story in Videogames
+===================
+
+Tobias Fischer <tobias@invisible.ch>
+Tenzin Bhusethang <tbd>
+
+
+:doctype: book
+:icons:
+:max-width: 45em
+:toc: macro
+:toc-title: Inhaltsverzeichnis
+:appendix-caption: Anhang
+
+:pdf-stylesdir: theme
+:pdf-style: pdf.yaml
+:figure-caption: Abbildung
+
+:math:
+:stem: latexmath
+
+toc::[]
+
+:numbered:
+
+// Push titles down one level
+:leveloffset: 1
+
+// include::abstract.adoc[]
+
+include::einleitung.adoc[]
+
+include::Fragestellung und Hypothese.adoc[]
+
+include::Motivation.adoc[]
+
+// include::Dungeon_Dragon_RPG.adoc[]
+
+include::Die Entstehung von Story in Videogames.adoc[]
+
+include::Auswertung der Umfrage.adoc[]
+
+// include::Interactive Fiction und Adventure.adoc[]
+
+include::Story in Videospielen.adoc[]
+
+// include::Story vor 10 Jahren.adoc[]
+
+// include::Story heute.adoc[]
+
+// include::Games die 5 Kunstform.adoc[]
+
+// include::Schwierigkeiten.adoc[]
+
+// include::Schlusswort.adoc[]
+
+:numbered!:
+
+include::Literaturverzeichnis.adoc[]
+
+
+// Return to normal title levels
+:leveloffset: 0
+
+
+[glossary]
+== Glossar
+
+Begriff:: Definition des Begriffs

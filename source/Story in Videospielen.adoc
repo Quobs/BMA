@@ -1,0 +1,119 @@
+= Story in Videogames
+
+== Geschichten gab es schon immer
+
+Wieso gibt es überhaupt eine Geschichte in Videogames?
+Nun Menschen haben schon immer gefallen an interessanten Geschichten gezeigt.
+Menschen erzählen sich seit jeher Geschichten. In Theater, Kino, Gedichte, Literatur, Lieder und nun auch in Games.
+Bereits die Höhlenmenschen zeichneten ihre Erlebnisse an die Wände.
+Im Mittelalter hat man Theater stücke aufgeführt und Gedichte geschrieben.
+Es ist der Inhalt, der den Menschen packt und interessiert.
+Schon als Kinder lieben wir es Geschichten zu hören.
+
+== Der Anfang von Geschichten in Videospielen
+
+Games haben vielleicht mit Geschicklichkeit und Denkspielen angefangen jedoch sind Adventures sehr schnell dazu gekommen.
+Das erste bekannte Adventure ist 1975 erscheinen es ist ein reines Textadventure und heisst _Adventure_.
+Später kamen weiter Textadventures, besonders bekannt war die _Zork_-Reihe von der Firma Inform.
+In den 80er Jahren wurden dann Textadventures von Grafik-Adventures abgelöst.
+Mit den Grafik und Textadventures hat man dann angefangen in Games Geschichten zu erzählen und bald danach sind Role-Playing Games dazugekommen.
+
+== Linearität
+
+Im Theater oder in Literatur wird eine Geschichte Linear erzählt jedoch in einem Game gibt es die Möglichkeit eine Non-Lineare Geschichte zu erzählen.
+Früher im Griechischen Theater gab es eine Einheit von Raum und Zeit das heisst wenn das Theater zwei Stunden lang dauert so dauert auch die Geschichte die erzählt wird zwei Stunden lang, später hat man mit Szenenwechsel Zeitsprünge vornehmen können.
+Bei einem Spiel kann man dies noch extremer tun indem man nicht nur die Zeit «aufbricht», sondern auch der Geschichte Freien lauf gibt.
+Man verändert die Geschichte je nach dem was man in dem Spiel macht.
+Für Storyteller ist es viel anspruchsvoller eine Non-Lineare Geschichte zu schreiben in dem sie dem Spieler die Entscheidung lassen was und wann er es erlebt.
+Es gibt auch Techniken den Spieler etwas in Schranken zu halten.
+Der Spieler muss einen bestimmten Bereich erreichen um in der Story weiter zu kommen.
+Es gibt auch Games die keine Story von einem Autor haben, sondern die Geschichte wird komplett automatisch generiert.
+Aufgrund von Reaktionen was der Spieler macht.
+
+== Filmregisseure über Games
+
+In einem Interview das (<<bishop2013>>) mit Steven Spielberg und George Lucas geführt hat, wird über Storytelling in Games diskutiert.
+
+[quote]
+--
+"Telling a story, it’s a very complicated process," he said.
+"You’re leading the audience along.
+You are showing them things.
+Giving them insights.
+It’s a very complicated construct and very carefully put together.
+If you just let everybody go in and do whatever they want then it’s not a story anymore.
+It’s simply a game."
+--
+
+George Lucas erklärt uns hier, dass es extrem schwer ist eine spannende Geschichte zu erzählen.
+Er sagt man führt die Zuschauer auf eine Reise und zeigt ihnen was passiert.
+Es ist sehr kompliziert und sehr vorsichtig zusammengeführt.
+Wenn man jetzt jeden einfach tun lässt was man will ist es keine Story mehr, sondern einfach nur ein Spiel.
+Wir verstehen was uns Lucas hier sagen will, jedoch sehen wir dies etwas anders.
+Es ist nicht einfach nur ein Spiel sondern der Spieler selber wird zum gestallter der Geschichte und kann diese erleben wie er es für sich persönlich gerne hätte.
+Das Spiel _Rimworld_ ist ein gutes Beispiel.
+Das Spiel startet idem man auswählt was für einen AI Storyteller man will, als nächstes wählt man sein Team aus, dann erfährt man etwas zur Vorgeschichte.
+Man ist aus einem Raumschiff abgestürzt und auf dieser neuen Welt gelandet.
+Mehr erfährt man nicht.
+Danach kann man selber entscheiden was man tut, eine Basis aufbauen ist meist die beste Idee, da die Team Mitglieder verschiedene Bedürfnisse haben.
+Sie brauchen ein Bett, ein Dach über dem Kopf, etwas zu Essen und so weiter.
+Nun können dinge passieren die vom AI Storyteller vorgegeben sind.
+Zum Beispiel könnte ein Tier in der Umgebung wild werden und alles angreifen was ihm in die Quere kommt oder ein teil eines Raumschiffes stürzt ab und ein schwer verletzter ist mit dabei, dann kann man selber entscheiden was man tut tötet man das wild gewordene Tier oder versucht man es aus dem Weg zu gehen, Hilft man der verletzten Person und lässt sie laufen oder sperrt man sie ein um sie möglicherweise in sein Team zu holen.
+Wie man sieht gibt es tausende an möglichen Szenarien und der Spieler entscheidet immer selber wie er mit gewissen Situationen um geht und wie sich die Geschichte des Teams weiterentwickelt.
+
+George Lucas sagte auch:
+
+[quote]
+--
+"Storytelling is about two things," he said.
+"It’s about character and plot."
+Character is what movies and television offer, he said, but it’s a concept the gaming industry is just now discovering.
+"Like sports. It’s about Tebow.
+It’s about, you know, Kobe.
+They’re starting to realize that if they focus on the characters it makes the game much richer."
+
+"But by its very nature there cannot be a plot in a game.
+You can’t plot out a football game.
+You can’t plot out feeding Christians to lions.
+It’s not a plot."
+--
+
+Storytelling besteht nach George Lucas aus zwei dingen und zwar Charaktere und der Handlung.
+Charakter ist was man in Filmen und im TV hat.
+Dies ist etwas was die Spieleindustrie gerade für sich entdeckt.
+Es sei wie im Sport, es geht um Tebow (bekannter Football-Spieler).
+Es geht um Kobe (bekannter Basketball-spieler)
+Die Spieleindustrie merkt jetzt das wenn sie sich auf die Charakter konzentrieren es das Spiel viel interesannter macht.
+
+Jedoch kann es in einem Spiel keine Handlung geben, es ist einfach so.
+Man kann ein Footballspiel nicht Planen.
+Man kann nicht planen das Christen Löwen zum frass vorgeworfen werden.
+
+Nun auch diese aussage finden wir etwas fragwürdig.
+Für uns kann es auch in einem Spiel eine gute Handlung haben.
+Man nehme _The Witcher 3: The Wild Hunt_ als Beispiel, ein Spiel welches auf einem Roman basiert.
+Jedoch sind wir uns sicher das jeder der das Spiel gespielt und das Buch gelesen hat sagen wird das in dem Spiel die Story viel besser rüber kommt als im Buch.
+Im Spiel geht es um Geralt von Riva der seine Tochter Ciri sucht.
+Auf der Suche nach Ciri muss Geralt viele Abenteuer bestreiten.
+Er ist ein sogenanter Witcher, welcher spezielle fähigkeiten hat.
+Im Spiel werden neben der Hauptstory auch noch sehr viele zusatz Geschichten erzählt.
+Zum Beispiel die Geschichte des Roten Barons.
+Da der Rote Baron Ciri gesehen hat bittet Geralt den Baron ihm hinweise zu geben wo sie sein könnte.
+Jedoch benötigt der Baron seine Hilfe.
+Auch seine Tochter und Frau sind verschwunden und er soll sie für ihn finden.
+Es gibt auch sehr gute beispiele von Spiele die nicht auf einem Buch basieren.
+Die _Mass Effect_- Reihe welche eine sehr tiefgründige Story erzählt.
+Eines der besten Beispiele unserer Meinung nach ist die _The walking dead_-Reihe in der eine packende Geschichte erzählt wird und man wie gebannt vor dem Bildschirm sitzt und mit Fiebert.
+
+== Der Einfluss von Film
+
+Wie Pöhnert schreibt, gab es bereits eine 70-Jährige Film geschichte als die ersten Videospiele auftauchten.
+Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert.
+Da die technischen Möglichkeiten begrenzt waren mussten die Spieler mit viel Fantasy aufwenden um sich die Geschichte vorzustellen.
+Früher konnte man die Charaktere nur mit einem Punkt darstellen während wir heute Schauspieler für Spiele haben.
+Das heisst früher musste man die Geschichten mit klötzen darstellen während wir heute Filmqualität in den Videospielen haben.
+
+Mit den immer besser werdender Technischen gegebenheiten finden sich heute in Videospielen immer längere und bessere Spielfilmartige Sequenzen.
+Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der erzählung der Geschichte beitragen.
+Jedoch können in ein Interaktives Spiel eingebaute Filmische Effekte mehr spannung aufbauen als eine eingeschobene Videosequenz.
+Zum Beispiel durch gänge rasende Ich-Perspektiven in _DOOM_ oder das Hoch und Hinabstürzen von Treppen in _Silent Hill_.
