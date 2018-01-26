@@ -26,7 +26,7 @@ toc::[]
 // Push titles down one level
 :leveloffset: 1
 
-// include::abstract.adoc[]
+include::Abstract.adoc[]
 
 include::einleitung.adoc[]
 
@@ -50,9 +50,9 @@ include::Story in Videospielen.adoc[]
 
 // include::Games die 5 Kunstform.adoc[]
 
-// include::Schwierigkeiten.adoc[]
+include::Schwierigkeiten.adoc[]
 
-// include::Schlusswort.adoc[]
+include::Schlusswort.adoc[]
 
 :numbered!:
 
