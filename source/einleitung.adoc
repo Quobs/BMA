@@ -14,5 +14,3 @@ Was heute zählt, ist die Grafik und die Online Funktionen. Während ältere Gam
 Doch kann dies von uns wirklich so verallgemeinert werden? In dieser Berufsmaturitätsarbeit soll unter anderem dieser Frage und dem genannten Wandel nachgegangen werden.
 
 stem:[\cos (2\theta) = \cos^2 \theta - \sin^2 \theta]
-
-
