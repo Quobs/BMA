@@ -1,19 +1,19 @@
 = Einleitung
 
 Das Oberthema der Berufsmaturitätsarbeit dieses Jahr lautet "Wandel".
-In dieser Arbeit untersuchen wir die Relevanz von Geschichte in Videospielen und ob sich diese Relevanz in den letzten Jahren verändert hat.
-Um den Kontext für diese Fragestellung herzustellen, betrachten wir wie Geschichten in Videospielen entstanden sind.
-Wir vergleichen es mit andren Kustformen, geben einen kurzen Überblick über die Entwicklung der Videospiele.
+In dieser Arbeit untersuchen wir die Relevanz von Geschichte in Videospielen und ob sich diese in den letzten Jahren verändert hat.
+Um den Kontext für diese Fragestellung herzustellen, betrachten wir, wie Geschichten in Videospielen umgesetzt werden.
+Wir vergleichen es mit anderen Kustformen und geben zuätzlich einen kurzen Überblick über die Entwicklung der Videospiele.
 
 
 == Motivation
 
-Da wir beide leidenschaftliche Gamer sind, haben wir uns entschlossen Thematisch in diese Richtung zu gehen.
-Wir beide lieben Role-playing Games (RPG) und versuchten deshalb, diese in unser Thema einzubauen.
-RPG's sind in den 80er und 90er Jahren gross geworden und prägten die Gaming Industrie.
+Da wir beide leidenschaftliche Gamer sind, haben wir uns entschlossen das Thema "Wandel" im Kontext von "Videospielen" zu untersuchen.
+Wir beide lieben so genannte Role-playing Games (RPG) und versuchten deshalb, diese in unser Thema einzubauen.
+RPG's sind in den 80er und 90er Jahren gross geworden und prägten damals die Gaming Industrie.
 Wir sind beide Ende der 90er Jahre geboren und haben uns erst in unserer frühen Jugend mit Games befasst.
-Da wir deshalb viel Gaming Geschichte verpasst haben, betrachten wir in einem ersten teil die Entwicklung der Videospiele, die Geschichten erzählen,  von den anfängen bis Heute.
-Zwitens versuchen wir mit einer Umfrage bei Spielern zu erfahren, wie diese zur Entwicklung der Story von Videospielen stehen.
+Da wir deshalb viel Gaming Geschichte verpasst haben, betrachten wir in einem ersten Teil die Entwicklung der Videospiele, die Geschichten erzählen, von den Anfängen bis Heute.
+Zwietens versuchen wir mit einer Umfrage bei Spielern zu erfahren, wie diese zur Entwicklung der Story von Videospielen stehen.
 
 
 == Fragestellung & Hypothese
@@ -24,22 +24,23 @@ Man könnte viele Fragen stellen wie zum Beispiel:
 * Wollen die Konsumenten Lieber eine packende Story oder einen tollen Online-Modus mit vielen Funktionen?
 * Hat dieser Wunsch nach Neuem mit dem Alter der Spieler zu tun oder kann man das nicht so verallgemeinern?
 * Wenn dem so ist, wann hat dann diese neue Spiele-Ära begonnen und welche Altersgruppe ist am zufriedensten?
-All diese Fragen haben wir versucht in eine Frage zu vormulieren.
+
+Wir haben versucht, all diese Fragen in einer Frage zu formulieren.
 
 [quote]
 --
 Hat sich die Relevanz der Story-Line der Games in den letzten 20 Jahren verändert?
 --
 
-Unsere Hypothese ist, dass Die Storyline in Videospielen in den letzten 20 Jahren für die Konsumenten weniger wichtig geworden ist.
-Viele heutigen Spiele verfügen über zwei unabhängige Modi.
-Im Singleplayer liegt der Fokus voll und ganz auf der Geschichte die der Spieler erlebt.
-Im Online-Modus wird die Spielwelt genommen und als Spieler bewegt man sich mit Mitspielern und Gegnerischen Spielern in dieser Welt und versucht ein Zeil zu erreichen und zu gewinnen.
+Unsere Hypothese ist, dass die Storyline in Videospielen in den letzten 20 Jahren für die Konsumenten/Spieler weniger wichtig geworden ist.
+Viele der heutigen Spiele verfügen über zwei unabhängige Modi.
+Im Singleplayer liegt der Fokus voll und ganz auf der Geschichte, die der Spieler erlebt.
+Im Online-Modus wird die Spielwelt genommen und als Spieler bewegt man sich mit Mitspielern und gegnerischen Spielern in dieser Welt und versucht ein Ziel zu erreichen und (als Gruppe) zu gewinnen.
 Die Geschichte tritt dabei meist komplett in den Hintergrund.
-Viele Spiele die Online gespielt werden, haben ein finazielles Modell bei dem der Spieler entweder monatliche Gebüren oder Micro-Trasactionen tätigt.
-Es ist vermütlich das Ziel der Hersteller Spieler möglichst lange an ihr Spiel zu binden um ihre Einnahmen zu maximieren.
-Das Ziel dieser Umfrage war es, mindestens 50 Gamer von verschiedenen Altersgruppen zu fragen, was sie von unserer These halten und was ihrer Meinung nach wichtiger ist.
 
+Viele Spiele, die Online gespielt werden, haben ein finanzielles Modell, bei dem der Spieler entweder monatliche Gebühren oder Micro-Trasaktionen tätigt.
+Es ist vermutlich das Ziel der Hersteller, die Spieler möglichst lange an ihr Spiel zu binden um ihre Einnahmen zu maximieren.
+Das Ziel dieser Umfrage war es, mindestens 50 Gamer aus verschiedenen Altersgruppen zu fragen, was sie von unserer These halten und was ihrer Meinung nach wichtiger ist.
 
 == Arbeitsmethoden
 
@@ -47,9 +48,9 @@ Als Techniken haben wir für diese Arbeit Literaturrecherche und eine Umfrage ge
 
 == Überblick über die Arbeit
 
-Im Kapitel "Geschichte von Videospielen" geben wir einen Überblick über das Thema Geschichte und wie diese ihren Anklang in Videospiele gefunden hat.
+Im Kapitel "Geschichte von Videospielen" geben wir einen kurzen Überblick über das Thema Geschichte und wie diese in Videospiele umgesetzt werden.
 Zu dem untersuchen wir
-Im nächste Kapitel "Die Entstehung von Geschichten in Videospielen" betrachten wir die Entwicklung von Videospielen von den 1970 Jahren bis zur heutigen Zeit.
-Dann folgt "Die Auswertung der Umfrage" in dem wir unsere Umfrage Kritisch betrachten und schlusse ziehn.
-Danach kommt das Schlusswort in dem wir ein Fazit ziehen.
-Im anhang befindet sich das Literaturverzeichnis, die Danksasgung und die Umfrage sowie ein Glossar in dem die englischen Begriffe erklärt werden.
+Im nächsten Kapitel "Die Entstehung von Geschichten in Videospielen" betrachten wir die Entwicklung von Videospielen von den 1970er Jahren bis zur heutigen Zeit.
+Dann folgt "Die Auswertung der Umfrage" in dem wir unsere Umfrage kritisch betrachten und daraus Schlüsse ziehen.
+Im Schlusswort ziehen wir ein Fazit.
+Im Anhang befindet sich Literaturverzeichnis, Danksagung und die Umfrage sowie ein Glossar in dem die englischen Begriffe erklärt werden.
