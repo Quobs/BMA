@@ -1,14 +1,55 @@
 = Einleitung
 
-Games gibt es wie Sand am Meer und wie auch dort können Muscheln, die Perlen enthalten, gefunden werden.
-Unter Perlen verstehen wir den Inhalt eines Games, wovon ein grosser Teil eine gute Story ist.
-Doch will man heute überhaupt noch eine fesselnde Geschichte durchleben oder doch lieber Online mit anderen Spielern der Welt zocken?
-In der Gaming-Industrie, wird unserer Meinung nach, der Online-Hype immer mehr gefördert und in den Vordergrund geschoben.
-So auch das 2013 erschienene Spiel Grand Theft Auto V , eines der erfolgreichsten Spiele überhaupt.
-Heute hat bestimmt jeder die Story durch, weshalb die Macher immer weiter am Online Modus arbeiten mussten und sich neue Features einfallen liessen um das Spiel weiter voran zu treiben.
-Sie gaben den Spielern selbst die Möglichkeit durch Modifikationen, die man im Internet herunterladen konnte, das eigene Spielgefühl zu verändern.
-Durch ihre Bemühungen lebt das Spiel fast fünf Jahre später immer noch und das nur dank dem Online Modus.
-Die Gaming-Industrie macht einen spürbaren Wandel durch. So werden Einzelspieler-Kampagnen kürzer und die Story weniger stark gewichtet.
-Was heute zählt, ist die Grafik und die Online Funktionen. Während ältere Gamer dies bedauern, sind viele der Jungen umso glücklicher.
-Doch kann dies von uns wirklich so verallgemeinert werden? In dieser Berufsmaturitätsarbeit soll unter anderem dieser Frage und dem genannten Wandel nachgegangen werden.
+Das Oberthema der Berufsmaturitätsarbeit dieses Jahr lautet "Wandel".
+In dieser Arbeit untersuchen wir die Relevanz von Geschichte in Videospielen und ob sich diese Relevanz in den letzten Jahren verändert hat.
+Um den Kontext für diese Fragestellung herzustellen, betrachten wir wie Geschichten in Videospielen entstanden sind.
+Wir vergleichen es mit andren Kustformen, geben einen kurzen Überblick über die Entwicklung der Videospiele.
 
+
+== Motivation
+
+Da wir beide leidenschaftliche Gamer sind, haben wir uns entschlossen Thematisch in diese Richtung zu gehen.
+Wir beide lieben Role-playing Games (RPG) und versuchten deshalb, diese in unser Thema einzubauen.
+RPG's sind in den 80er und 90er Jahren gross geworden und prägten die Gaming Industrie.
+Wir sind beide Ende der 90er Jahre geboren und haben uns erst in unserer frühen Jugend mit Games befasst.
+Da wir deshalb viel Gaming Geschichte verpasst haben, betrachten wir in einem ersten teil die Entwicklung der Videospiele, die Geschichten erzählen,  von den anfängen bis Heute.
+Zwitens versuchen wir mit einer Umfrage bei Spielern zu erfahren, wie diese zur Entwicklung der Story von Videospielen stehen.
+
+
+== Fragestellung & Hypothese
+
+Man könnte viele Fragen stellen wie zum Beispiel:
+
+* Wohin entwickelt sich die Gaming-Industrie?
+* Wollen die Konsumenten Lieber eine packende Story oder einen tollen Online-Modus mit vielen Funktionen?
+* Hat dieser Wunsch nach Neuem mit dem Alter der Spieler zu tun oder kann man das nicht so verallgemeinern?
+* Wenn dem so ist, wann hat dann diese neue Spiele-Ära begonnen und welche Altersgruppe ist am zufriedensten?
+All diese Fragen haben wir versucht in eine Frage zu vormulieren.
+
+[quote]
+--
+Hat sich die Relevanz der Story-Line der Games in den letzten 20 Jahren verändert?
+--
+
+Unsere Hypothese ist, dass Die Storyline in Videospielen in den letzten 20 Jahren für die Konsumenten weniger wichtig geworden ist.
+Viele heutigen Spiele verfügen über zwei unabhängige Modi.
+Im Singleplayer liegt der Fokus voll und ganz auf der Geschichte die der Spieler erlebt.
+Im Online-Modus wird die Spielwelt genommen und als Spieler bewegt man sich mit Mitspielern und Gegnerischen Spielern in dieser Welt und versucht ein Zeil zu erreichen und zu gewinnen.
+Die Geschichte tritt dabei meist komplett in den Hintergrund.
+Viele Spiele die Online gespielt werden, haben ein finazielles Modell bei dem der Spieler entweder monatliche Gebüren oder Micro-Trasactionen tätigt.
+Es ist vermütlich das Ziel der Hersteller Spieler möglichst lange an ihr Spiel zu binden um ihre Einnahmen zu maximieren.
+Das Ziel dieser Umfrage war es, mindestens 50 Gamer von verschiedenen Altersgruppen zu fragen, was sie von unserer These halten und was ihrer Meinung nach wichtiger ist.
+
+
+== Arbeitsmethoden
+
+Als Techniken haben wir für diese Arbeit Literaturrecherche und eine Umfrage gewählt.
+
+== Überblick über die Arbeit
+
+Im Kapitel "Geschichte von Videospielen" geben wir einen Überblick über das Thema Geschichte und wie diese ihren Anklang in Videospiele gefunden hat.
+Zu dem untersuchen wir
+Im nächste Kapitel "Die Entstehung von Geschichten in Videospielen" betrachten wir die Entwicklung von Videospielen von den 1970 Jahren bis zur heutigen Zeit.
+Dann folgt "Die Auswertung der Umfrage" in dem wir unsere Umfrage Kritisch betrachten und schlusse ziehn.
+Danach kommt das Schlusswort in dem wir ein Fazit ziehen.
+Im anhang befindet sich das Literaturverzeichnis, die Danksasgung und die Umfrage sowie ein Glossar in dem die englischen Begriffe erklärt werden.
