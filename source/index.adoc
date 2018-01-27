@@ -30,10 +30,6 @@ include::Abstract.adoc[]
 
 include::einleitung.adoc[]
 
-include::Fragestellung und Hypothese.adoc[]
-
-include::Motivation.adoc[]
-
 // include::Dungeon_Dragon_RPG.adoc[]
 
 include::Die Entstehung von Story in Videogames.adoc[]
