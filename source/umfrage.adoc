@@ -1,0 +1,6 @@
+[appendix]
+= Umfrage
+
+image:images/umfrage_1.png[pdfwidth=100%]
+
+image:images/umfrage_2.png[pdfwidth=100%]

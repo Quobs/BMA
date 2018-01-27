@@ -1,5 +1,5 @@
 Wandel der Story-Relevanz in Videospielen
-===================
+=========================================
 
 Tobias Fischer <tobias@invisible.ch>
 Tenzin Bhusethang <tbd>
@@ -11,6 +11,7 @@ Tenzin Bhusethang <tbd>
 :toc: macro
 :toc-title: Inhaltsverzeichnis
 :appendix-caption: Anhang
+:table-caption: Tabelle
 
 :pdf-stylesdir: theme
 :pdf-style: pdf.yaml
@@ -39,6 +40,12 @@ include::Auswertung der Umfrage.adoc[]
 include::Schlusswort.adoc[]
 
 :numbered!:
+
+include::umfrage.adoc[]
+
+include::auswertung.adoc[]
+
+
 
 include::Literaturverzeichnis.adoc[]
 

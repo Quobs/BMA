@@ -75,20 +75,12 @@ image::images/mocap09.jpg[Motion Capture, pdfwidth=75%,align=center]
 image::images/highlightbild-kingdom-come-deliverance-alle-infos-bilder-videos_2465810.jpg[Kampfszene, pdfwidth=75%,align=center]
 
 
-
-gab es bereits eine 70-Jährige Filmgeschichte als die ersten Videospiele auftauchten.
-Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert.
-Da die technischen Möglichkeiten begrenzt waren mussten die Spieler mit viel Fantasy aufwenden um sich die Geschichte vorzustellen.
-Früher konnte man die Charaktere nur mit einem Punkt darstellen während wir heute Schauspieler für Spiele haben.
-Das heisst früher musste man die Geschichten mit Klötzen darstellen während wir heute Filmqualität in den Videospielen haben.
-
-Weil es so ähnlich ist wie Film ist es interessant was Filmregisseure dazu sagen,
+Weil sich das Spiel dem Film annähert, ist es interessant zu sehen, was Filmregisseure zu Geschichten in Spielen sagen,
 
 
+== Filmregisseure über Spiele
 
-== Filmregisseure über Games
-
-In einem Interview das (<<bishop2013>>) mit Steven Spielberg und George Lucas geführt hat, wird über Storytelling in Games diskutiert.
+In einem Interview das (<<bishop>>) mit Steven Spielberg und George Lucas geführt hat, wird über Storytelling in Games diskutiert.
 
 [quote]
 --
@@ -101,23 +93,26 @@ If you just let everybody go in and do whatever they want then it’s not a stor
 It’s simply a game."
 --
 
-Wir verstehen was uns Lucas hier sagen will, jedoch sehen wir dies etwas anders.
-Es ist nicht einfach nur ein Spiel sondern der Spieler selber wird zum gestallter der Geschichte und kann diese erleben wie er es für sich persönlich gerne hätte.
-Der Spieler wird teilweise sogar dazu animiert die Geschichte des Spieles selber zu gestallten oder herauszufinden.
-Somit gibt es sehr viele Interpretationen, auch in der Literatur oder im Film wird etwas ändliches gemacht.
-Man lässt die Geschichte offen und lässt die Leser und die Betrachter spekulieren was passieren könnte.
-Dadurch öffnet man eine völlig neue herangehensweise an die Geschichte und ob dies in einem Spiel oder einem Film passiert ist nicht relevant.
-Zum Beispiel in der Fernseh-Serie _Game of Thrones_, nach jeder Staffel gibt es im Internet aber tausende Theorien was nun als nächstes in der Serie passieren könnte oder wie die Serie endet.
-Das selbe gibt es auch in Videospielen, in _World of Warcraft_, welches eine immer weitergehende Geschichte besitzt, werden immer wieder Theorien aufgestellt was mit den Charakteren und der Spielwelt als nächstes passiert.
-In _World of Warcraft_ ist die Art wie die Geschichte erzählt wird sehr speziell.
-Der Spieler ist ein teil der Spielwelt und hat auch Einfluss auf diese.
+Wir verstehen, was uns Lucas hier sagen will, sehen das jedoch etwas anders als er.
+Es ist nicht einfach nur ein Spiel sondern der Spieler selber wird zum Gestalter der Geschichte und kann diese so erleben, wie er es für sich persönlich gerne hätte.
+Der Spieler wird teilweise sogar dazu animiert die Geschichte des Spieles selber zu gestalten oder sie Schritt für Schritt aufzudecken.
+Somit gibt es Raum für viele Interpretationen.
+Auch in der Literatur oder im Film wird etwas ähnliches gemacht.
+Der Autor lässt die Geschichte offen und die Leser und die Betrachter spekulieren was passieren könnte.
+Dadurch öffnet man eine völlig neue Herangehensweise an die Geschichte.
+Ob dies in einem Spiel oder einem Film passiert, ist nicht relevant.
+Zum Beispiel gibt es bei der Fernsehserie _Game of Thrones_ nach jeder Staffel im Internet viele Theorien darüber, was als nächstes in der Serie passieren könnte oder wie sie enden wird.
+
+Das selbe gibt es auch in Videospielen.
+In _World of Warcraft_, welches eine immer weitergehende Geschichte besitzt, werden immer wieder Theorien aufgestellt was mit den Charakteren und der Spielwelt als nächstes passiert.
+In _World of Warcraft_ ist die Art, wie die Geschichte erzählt wird, sehr speziell.
+Der Spieler ist ein Teil der Spielwelt und hat auch Einfluss auf diese.
 Im Jahr 2017 ist das neue Erweiterungs-Paket für _World of Warcraft_ erschienen.
-Die Spieler machten sich auf den Weg neue Ort zu entdecken, Stärker zu werden und neue Verbündete zu gewinnen.
-Die Geschichte von _World of Warcraft_ ist eine Klassische "Monster überwinden"-Story, jedoch gibt es nicht nur einen Protagonisten sondern die Spieler müssen zusammen gegen die Monster kämpfen.
-Wir sehen das so, dass dies auch eine Geschichte ist und nicht nur ein Spiel, auch wenn jeder das machen kann was er will.
+Die Spieler machten sich auf den Weg neue Ort zu entdecken, stärker zu werden und neue Verbündete zu gewinnen.
+Die Geschichte von _World of Warcraft_ ist eine klassische "Monster überwinden"-Story, jedoch gibt es nicht nur einen Protagonisten sondern die Spieler müssen zusammen gegen die Monster kämpfen.
+Wir sehen das so, dass dies auch eine Geschichte ist und nicht nur ein Spiel, auch wenn jeder das machen kann, was er will.
 
-
-George Lucas sagte auch:
+George Lucas sagte auch (ebenda):
 
 [quote]
 --
@@ -134,14 +129,17 @@ You can’t plot out feeding Christians to lions.
 It’s not a plot."
 --
 
-
 Nun auch diese Aussage finden wir etwas fragwürdig.
 Für uns kann es auch in einem Spiel eine gute Handlung haben.
 Man nehme _The Witcher 3: The Wild Hunt_ als Beispiel, ein Spiel welches auf einem Roman basiert.
-Jedoch sind wir uns sicher das jeder der das Spiel gespielt und das Buch gelesen hat sagen wird das in dem Spiel die Story viel besser rüber kommt als im Buch.
-Die Geschichte des Spieles ist sehr vielfaltig.
-Es werden viele kurze Geschichten erzählt die auch zur Hauptgeschichte beitragen.
-Viele von diesen Geschichten fallen wieder in unser Schema, es gibt "Monster überwinden"-Storys, "Die Aufgabe"-Passagen und auch "Tragödien" werden erzählt.
-Es gibt auch sehr gute Beispiele von Spiele die nicht auf einem Buch basieren.
-Die _Mass Effect_-Reihe, welche auch klare verbindungen zu den oben erwähnten Handlungstypen aufweist.
-Wir stehen dammit im Wiederspruch zur Aussage von Lucas, denn wir finden das es auch in Videospielen einen "Plot" geben kann.
+Wir sind uns sicher, dass jeder der das Spiel gespielt und das Buch gelesen hat, sagen wird, dass die Story im Spiel viel besser vermittelt wird als im Buch.
+Die Geschichte des Spieles ist sehr vielfältig.
+Es werden viele kurze Geschichten erzählt, die auch zur Hauptgeschichte beitragen.
+Viele von diesen Geschichten fallen wieder in die oben genannten Schemata: es gibt "Monster überwinden"-Storys, "Die Aufgabe"-Passagen und auch "Tragödien" werden erzählt.
+
+.The Witcher 3 (2015)
+image::images/The-Witcher-3-einstieg.jpg[The Witcher,pdfwidth=75%,align=center]
+
+Es gibt auch sehr gute Beispiele von Spielem,  die nicht auf einem Buch basieren.
+Die _Mass Effect_-Reihe, welche sich auch an den verschienden Handlungstypen orientiert.
+Wir stehen damit im Widerspruch zur Aussage von Lucas, denn wir meinen, dass es durchaus auch in Videospielen einen "Plot" geben kann.

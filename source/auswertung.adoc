@@ -1,0 +1,82 @@
+[appendix]
+= Auswertung
+
+.Frage 1 -- Geschlecht
+image::images/antwort_1.png[pdfwidth=75%,align=center]
+
+.Frage 2 -- Alter
+image::images/antwort_2.png[pdfwidth=75%,align=center]
+
+.Frage 3 -- Begonnen zu spielen
+image::images/antwort_3.png[pdfwidth=75%,align=center]
+
+.Frage 4 -- Wie oft spielen
+image::images/antwort_4.png[pdfwidth=75%,align=center]
+
+.Frage 5 -- Storyline wichtig
+image::images/antwort_5.png[pdfwidth=75%,align=center]
+
+.Frage 6 -- Wichtiger Story oder Gameplay
+image::images/antwort_6.png[pdfwidth=75%,align=center]
+
+.Frage 7 -- Wie spielst Du
+image::images/antwort_7.png[pdfwidth=75%,align=center]
+
+.Frage 8 -- Zufriedenheit
+image::images/antwort_8.png[pdfwidth=75%,align=center]
+
+.Frage 9 -- Story erleben
+image::images/antwort_9.png[pdfwidth=75%,align=center]
+
+.Frage 10 -- Was braucht eine gute Story
+image::images/antwort_10.png[pdfwidth=75%,align=center]
+
+.Frage 11 - Spiele mit guter Geschichte
+[cols="20,20,50,>10",options="header"]
+.Auswertung der genannten Spiele
+|===
+| Erschienen   | Genre | Titel | Punkte
+|1980 -- 1989  | Adventure | Hitchhikers Guide to the Galaxy   | 2
+|              | Jump & Run | Prince of Persia                 | 1
+|1990 -- 1999  | RPG       | Vampires the Masquerade | 1
+|             | Adventure | Metal Gear Solid        | 3
+|             |           | Day of the Tentacle     | 3
+|             |           | Zelda: Ocarina of Time  | 2
+|             |           | Myst                    | 1
+|             | RTS       | Dugeon Keeper           | 1
+|2000 -- 2009  | Jump & Run | Rattchet & Clank       | 3
+|             | Adventure  | Assassins Creed        | 1
+|             |            | Syberia                | 1
+|             |            | Okami HD               | 1
+|             |            | Portal                 | 1
+|             | RPG        | Star Wars: Knights of the old Republic | 3
+|             |            | Fallout                | 1
+|             | Shooter    | Half-Life 2            | 4
+|             |            | Call of Duty           | 5
+|             |            | Bioshock               | 2
+|             | RTS        | Warcraft 3             | 1
+|             | RPG (MP)   | World of Warcraft      | 3
+|
+2010 -- 2017 | Adventure | The last of us          | 4
+|             |           | Life is Strange         | 3
+|             |           | Uncharted               | 3
+|             |           | Beyond: 2 Souls         | 2
+|             |           | Heavy Rain              | 2
+|             |           | To The Moon             | 2
+|             |           | What Remains of Edith Finch| 2
+|             |           | Alan Wake               | 1
+|             |           | The Walking Dead        | 1
+|             |           | Yakuza 5                | 1
+|             | RPG       | The Witcher 3           | 14
+|             |           | Horizon Zero Dawn       | 2
+|             |           | Mass Effect             | 2
+|             |           | Skyrim                  | 2
+|             |           | Dark Souls              | 1
+|             |           | Divinity: Original Sin  | 1
+|             |           | The binding of Isaac    | 1
+|             |           | Undertale               | 1
+|             | Simulation | Rimworld               | 1
+|             | Action    | GTA V                   | 2
+|             |           | Farcry 4                | 1
+|             | Jump & Run | Ori and the blind Forrest | 1
+|===
