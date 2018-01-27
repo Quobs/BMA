@@ -12,7 +12,3 @@ Die Gaming-Industrie macht einen spürbaren Wandel durch. So werden Einzelspiele
 Was heute zählt, ist die Grafik und die Online Funktionen. Während ältere Gamer dies bedauern, sind viele der Jungen umso glücklicher.
 Doch kann dies von uns wirklich so verallgemeinert werden? In dieser Berufsmaturitätsarbeit soll unter anderem dieser Frage und dem genannten Wandel nachgegangen werden.
 
-<<<<<<< HEAD
-stem:[\cos (2\theta) = \cos^2 \theta - \sin^2 \theta]
-=======
->>>>>>> 0ceb02c038fa227c943d773099c602d994620695
