@@ -1,4 +1,4 @@
-Story in Videogames
+Wandel der Story-Relevanz in Videospielen
 ===================
 
 Tobias Fischer <tobias@invisible.ch>
@@ -30,23 +30,11 @@ include::Abstract.adoc[]
 
 include::einleitung.adoc[]
 
-// include::Dungeon_Dragon_RPG.adoc[]
+include::Story in Videospielen.adoc[]
 
 include::Die Entstehung von Story in Videogames.adoc[]
 
 include::Auswertung der Umfrage.adoc[]
-
-// include::Interactive Fiction und Adventure.adoc[]
-
-include::Story in Videospielen.adoc[]
-
-// include::Story vor 10 Jahren.adoc[]
-
-// include::Story heute.adoc[]
-
-// include::Games die 5 Kunstform.adoc[]
-
-include::Schwierigkeiten.adoc[]
 
 include::Schlusswort.adoc[]
 
