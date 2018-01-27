@@ -42,28 +42,41 @@ Mit den Grafik und Textadventures hat man dann angefangen in Games Geschichten z
 
 == Linearität
 
-Im Theater oder in Literatur wird eine Geschichte linear erzählt jedoch in einem Game gibt es die Möglichkeit eine Non-Lineare Geschichte zu erzählen.
+Im Theater oder in der Literatur wird eine Geschichte linear erzählt.
 Früher im greichischen Theater gab es eine Einheit von Raum und Zeit, dass heisst wenn das Theater zwei Stunden lang dauert, so dauert auch die Geschichte die erzählt wird zwei Stunden lang, später hat man mit Szenenwechsel Zeitsprünge vornehmen können.
-Bei einem Spiel kann man dies noch extremer tun indem man nicht nur die Zeit «aufbricht», sondern auch der Geschichte Freienlauf gibt.
+In Literatur, Theater und Film kann man mehrere Zeitebenen parallel erzählen.
+Dennoch wird die Geschichte vom Erzähler in einer vorgegeben Reihenfolge erzählt.
+In einem Spiel kann dies auch so geschehen, zusätzlich besteht die Möglichkeit dem Spieler die Steuerung des Geschichtsflusses zu ermöglichen.
 Man verändert die Geschichte je nach dem was man in dem Spiel macht.
+Zudem gibt es Spiele deren Geschichte durch die Handlungen des Spielers beinflusst werden oder erst durch diese entstehen.
 Für Storyteller ist es viel anspruchsvoller eine Non-Lineare Geschichte zu schreiben in dem sie dem Spieler die Entscheidung lassen was und wann er es erlebt.
-Es gibt auch Techniken den Spieler etwas in Schranken zu halten.
-Der Spieler muss einen bestimmten Bereich erreichen um in der Story weiter zu kommen.
-Es gibt auch Games die keine Story von einem Autor haben, sondern die Geschichte wird komplett automatisch generiert.
-Aufgrund von Reaktionen was der Spieler macht.
+
+Es gibt auch Techniken, den Fluss einer dynamischen Geschichte so zu steuern, dass der Spieler den Hauptstrang so erlebt, wie es der Autor vorgesehen hat.
+Der Spieler muss zum Beispiel einen bestimmten Ort erreichen um in der Story weiter zu kommen.
+Es gibt auch Games die keine Story von einem Autor haben, sondern deren Geschichte automatisch, aufgrund von Aktionen und Reaktionen des Spielers generiert wird.
 
 == Der Einfluss von Film
 
-Wie (Pöhnert2005) schreibt, gab es bereits eine 70-Jährige Filmgeschichte als die ersten Videospiele auftauchten.
+Durch den technischen Fortschritt, vorallem im Bereich der Grafik, können Spiele immer neher an das visuelle Aussehen von Filmen kommen.
+Wie (Pöhnert2005) schreibt, wurden mit den immer besser werdender Technischen Gegebenheiten, immer längere und bessere Spielfilmartige Sequenzen möglich.
+Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der Erzählung der Geschichte beitragen.
+
+Heute, 12 Jahre später sind die technischen Möglichkeiten so weiterentwickelt, dass es möglich ist, quasi realistische Bilder im eigentlichem Spiel zu haben.
+Zum Beispiel wird mit sogenantem "Motion capturing" das Aussehen und die Bewegung von Schauspielern aufgenommen.
+Die sich daraus ergebenen Daten machen es möglich, das sich eine Figur im Spiel natürlich bewegt, auch wenn die jeweilige Aktion oder Handlung nicht vorgegeben war.
+
+
+
+
+
+
+gab es bereits eine 70-Jährige Filmgeschichte als die ersten Videospiele auftauchten.
 Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert.
 Da die technischen Möglichkeiten begrenzt waren mussten die Spieler mit viel Fantasy aufwenden um sich die Geschichte vorzustellen.
 Früher konnte man die Charaktere nur mit einem Punkt darstellen während wir heute Schauspieler für Spiele haben.
 Das heisst früher musste man die Geschichten mit Klötzen darstellen während wir heute Filmqualität in den Videospielen haben.
 
-Mit den immer besser werdender Technischen Gegebenheiten finden sich heute in Videospielen immer längere und bessere Spielfilmartige Sequenzen.
-Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der Erzählung der Geschichte beitragen.
-Jedoch können in ein Interaktives Spiel eingebaute Filmische Effekte mehr spannung aufbauen als eine eingeschobene Videosequenz.
-Zum Beispiel durch gänge rasende Ich-Perspektiven in _DOOM_ oder das Hoch und Hinabstürzen von Treppen in _Silent Hill_.
+
 
 == Filmregisseure über Games
 
