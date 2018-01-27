@@ -10,6 +10,28 @@ Im Mittelalter hat man Theaterstücke aufgeführt und Gedichte geschrieben.
 Es ist der Inhalt, der den Menschen packt und interessiert.
 Schon als Kinder liebten wir es Geschichten zu hören.
 
+Im Buch "The Seven Basic Plots: Why We Tell Stories" von (<<Booker2004>>) schreibt er, es gibt sieben arten wie wir eine Handlung einer Geschichte erzählen.
+
+Das Monster überwinden:: Der Protagonist versucht eine meist böse Macht die ihn bedroht zu überwinden.
+
+Von Lumpen zu Reichtum:: Der arme Protagonist bekommt Sachen wie Stärke, Geld, Macht nur um sie wieder zu verlieren um sie dann zurück zu bekommen nachdem er als Mensch gewachsen ist.
+
+Die Aufgabe:: Der Protagonist und sein Gefolge versuchen ein wichtiges Objekt zu finden oder einen speziellen Ort zu erreichen. Auf der Reise müssen sie viele Gefahren und versuchungen zu überwinden.
+
+Reise und Rückkehr:: Der Protagonist geht in ein fremdes Land, überwindet die Gefahren die auf ihn lauern und kehrt dann mit erfahrung zurück.
+
+Komödie:: Leicht und Humorvoller Charakter mit einem glücklichen oder lustigem Ende.
+
+Tragödie:: Der Protagonist ist ein Held mit einer offensichtlier Charakterschwäche oder einem grossen Fehler was am ende zu seinem untergang führt.
+
+Wiedergeburt:: Im Lauf der Geschichte zwingt ein Erignis den Protagonist seine Art zu ändern, was ihn oft zu einem besseren Menschen macht.
+
+Auch in Videospielen sind diese arten von Geschichten oft vertreten.
+Dabei tauchen am häufigsten das überwinden von Monstern auf.
+Auch die Aufgabe wird oft behandelt.
+Tragödien sind viel in neuen Adventures zu finden wie zum Beispiel _The walking Dead_
+
+
 == Der Anfang von Geschichten in Videospielen
 
 Games haben vielleicht mit Geschicklichkeit und Denkspielen angefangen jedoch sind Adventures sehr schnell dazu gekommen.
@@ -29,6 +51,19 @@ Es gibt auch Techniken den Spieler etwas in Schranken zu halten.
 Der Spieler muss einen bestimmten Bereich erreichen um in der Story weiter zu kommen.
 Es gibt auch Games die keine Story von einem Autor haben, sondern die Geschichte wird komplett automatisch generiert.
 Aufgrund von Reaktionen was der Spieler macht.
+
+== Der Einfluss von Film
+
+Wie (Pöhnert2005) schreibt, gab es bereits eine 70-Jährige Filmgeschichte als die ersten Videospiele auftauchten.
+Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert.
+Da die technischen Möglichkeiten begrenzt waren mussten die Spieler mit viel Fantasy aufwenden um sich die Geschichte vorzustellen.
+Früher konnte man die Charaktere nur mit einem Punkt darstellen während wir heute Schauspieler für Spiele haben.
+Das heisst früher musste man die Geschichten mit Klötzen darstellen während wir heute Filmqualität in den Videospielen haben.
+
+Mit den immer besser werdender Technischen Gegebenheiten finden sich heute in Videospielen immer längere und bessere Spielfilmartige Sequenzen.
+Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der Erzählung der Geschichte beitragen.
+Jedoch können in ein Interaktives Spiel eingebaute Filmische Effekte mehr spannung aufbauen als eine eingeschobene Videosequenz.
+Zum Beispiel durch gänge rasende Ich-Perspektiven in _DOOM_ oder das Hoch und Hinabstürzen von Treppen in _Silent Hill_.
 
 == Filmregisseure über Games
 
@@ -104,16 +139,3 @@ Auch seine Tochter und Frau sind verschwunden und er soll sie für ihn finden.
 Es gibt auch sehr gute Beispiele von Spiele die nicht auf einem Buch basieren.
 Die _Mass Effect_-Reihe, welche eine sehr tiefgründige Story erzählt.
 Eines der besten Beispiele unserer Meinung nach ist die _The walking dead_-Reihe in der eine packende Geschichte erzählt wird und man wie gebannt vor dem Bildschirm sitzt und mitfiebert.
-
-== Der Einfluss von Film
-
-Wie Pöhnert schreibt, gab es bereits eine 70-Jährige Filmgeschichte als die ersten Videospiele auftauchten.
-Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert.
-Da die technischen Möglichkeiten begrenzt waren mussten die Spieler mit viel Fantasy aufwenden um sich die Geschichte vorzustellen.
-Früher konnte man die Charaktere nur mit einem Punkt darstellen während wir heute Schauspieler für Spiele haben.
-Das heisst früher musste man die Geschichten mit Klötzen darstellen während wir heute Filmqualität in den Videospielen haben.
-
-Mit den immer besser werdender Technischen Gegebenheiten finden sich heute in Videospielen immer längere und bessere Spielfilmartige Sequenzen.
-Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der Erzählung der Geschichte beitragen.
-Jedoch können in ein Interaktives Spiel eingebaute Filmische Effekte mehr spannung aufbauen als eine eingeschobene Videosequenz.
-Zum Beispiel durch gänge rasende Ich-Perspektiven in _DOOM_ oder das Hoch und Hinabstürzen von Treppen in _Silent Hill_.
