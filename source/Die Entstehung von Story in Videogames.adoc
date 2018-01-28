@@ -1,5 +1,34 @@
 = Die Entstehung von Storytelling in Videospielen
 
+
+== Dungeons and Dragons
+
+Ich denke fast jeder hat schonmal von "Dungeons and Dragons" gehört.
+Wir verbinden es oft mit jungen Nerds, die im Keller eingeschlossen mit ihren Freunden "Dungons und Dragons" spielen.
+Nun was ist den dieses "Dungeons and Dragons"?
+Es ist ein sogenanntes Pen and Paper Rollenspiel und wie der Name schon verät spielt man es mit Papier und Stift.
+Der Spieler schlüpft in eine fiktive Rolle und erlebt mit seinen Mitspielern verschiedenen Abenteuer.
+Der Spielleiter ist wie der Erzähler in einem Buch oder Film und die Spieler verkörpern die Charaktere.
+Nun anstatt das vorgegeben ist wie sich die Charaktere verhalten und was sie als nächstes tun, entscheiden die Spieler selber, was sie als nächstes machen.
+Man sieht klare Zusammenhänge zu heutigen Role-playing Games.
+Wie wir bereits erklärten wird der Spieler zum Gestalter der Geschichte und erlebt die Geschichte gleichzeitig mit.
+
+== Role-playing Games
+
+Die Wurzeln der RPG's stammen hauptsächlich aus den oben genannten Pen and Paper Rollenspielen.
+Jedoch übernimmt hier der Computer die Rolle des Spielleiters, welches natürlich Einschränkungen mit sich zieht.
+Hier ist es vorgeschrieben was passiert durch die Spielentwickler.
+Die ersten Computer Rollenspiele entstanden Mitte der 70er Jahre.
+Da Universitäten die einzigen Institutionen waren welche über eingeschränkt zugängige Rechner verfügten, waren es Studenten welche die ersten Rollenspiele entwickelten.
+Speicherplatz war zu dieser Zeit sehr wertvoll, deshalb hatten Universitäten eine Strenge Löschplitik.
+Das heisst, dass fast alle zu dieser Zeit entwickelten Rollenspiele gelöscht wurden.
+Das älteste noch erhaltene Rollenspiel heisst "dnd" und wurde 1974 an der Universität Illinois entwickelt.
+Heute gibt es diese Rollenspiele immer noch, auch wenn das Genre nicht mehr so gross ist wie vor ein paar Jahren.
+Ein gutes Beispiel für ein Videospiel welches noch sehr klare Ändlichkeiten mit "Dungeons and Dragons" hat ist "Divinity: Orignial Sin 2", welches im Herbst 2017 erschienen ist.
+Im Spiel gibt es sogar eine Funktion ein Pen and Paper Spiel mit seinen Freunden zu spielen.
+Der Stift und das Papier ist zwar nicht vorhanden aber dennoch ist es fast identisch zu dem Orginal.
+Das gute ist man muss sich die Abenteuer nicht vorstellen, sondern man erlebt sie am Bildschirm mit.
+
 == Interactive Fiction
 
 Interactive Fiction, auch bekannt als Textadventures, ist ein Spielegenre, indem man nur mit Hilfe von Texten eine Geschichte erzählt.
@@ -29,32 +58,3 @@ Im neuen Jahrtausend aber kamen die Adventures zurück auf die Bühne und feiern
 Nicht nur das, gewisse gelten sogar als Kultklassiker.
 So auch The Walking Dead von Telltale Games, dies  ist ein episodisches Spiel, welches eine packende und Herz zerreissende Geschichte erzählt.
 Der Spieler wird gezwungen schwere Entscheidungen zu treffen, die Charaktere das Leben kosten könnten.
-
-
-== Dungeons and Dragons
-
-Ich denke fast jeder hat schonmal von "Dungeons and Dragons" gehört.
-Wir verbinden es oft mit jungen Nerds, die im Keller eingeschlossen mit ihren Freunden "Dungons und Dragons" spielen.
-Nun was ist den dieses "Dungeons and Dragons"?
-Es ist ein sogenanntes Pen and Paper Rollenspiel und wie der Name schon verät spielt man es mit Papier und Stift.
-Der Spieler schlüpft in eine fiktive Rolle und erlebt mit seinen Mitspielern verschiedenen Abenteuer.
-Der Spielleiter ist wie der Erzähler in einem Buch oder Film und die Spieler verkörpern die Charaktere.
-Nun anstatt das vorgegeben ist wie sich die Charaktere verhalten und was sie als nächstes tun, entscheiden die Spieler selber, was sie als nächstes machen.
-Man sieht klare Zusammenhänge zu heutigen Role-playing Games.
-Wie wir bereits erklärten wird der Spieler zum Gestalter der Geschichte und erlebt die Geschichte gleichzeitig mit.
-
-== Role-playing Games
-
-Die Wurzeln der RPG's stammen hauptsächlich aus den oben genannten Pen and Paper Rollenspielen.
-Jedoch übernimmt hier der Computer die Rolle des Spielleiters, welches natürlich Einschränkungen mit sich zieht.
-Hier ist es vorgeschrieben was passiert durch die Spielentwickler.
-Die ersten Computer Rollenspiele entstanden Mitte der 70er Jahre.
-Da Universitäten die einzigen Institutionen waren welche über eingeschränkt zugängige Rechner verfügten, waren es Studenten welche die ersten Rollenspiele entwickelten.
-Speicherplatz war zu dieser Zeit sehr wertvoll, deshalb hatten Universitäten eine Strenge Löschplitik.
-Das heisst, dass fast alle zu dieser Zeit entwickelten Rollenspiele gelöscht wurden.
-Das älteste noch erhaltene Rollenspiel heisst "dnd" und wurde 1974 an der Universität Illinois entwickelt.
-Heute gibt es diese Rollenspiele immer noch, auch wenn das Genre nicht mehr so gross ist wie vor ein paar Jahren.
-Ein gutes Beispiel für ein Videospiel welches noch sehr klare Ändlichkeiten mit "Dungeons and Dragons" hat ist "Divinity: Orignial Sin 2", welches im Herbst 2017 erschienen ist.
-Im Spiel gibt es sogar eine Funktion ein Pen and Paper Spiel mit seinen Freunden zu spielen.
-Der Stift und das Papier ist zwar nicht vorhanden aber dennoch ist es fast identisch zu dem Orginal.
-Das gute ist man muss sich die Abenteuer nicht vorstellen, sondern man erlebt sie am Bildschirm mit.

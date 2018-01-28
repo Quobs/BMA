@@ -6,26 +6,27 @@ Unsere Fragestellung lautet: "Hat sich die Relevanz der Story-Line der Games in 
 Wir haben versucht dieser Frage in unserer Umfrage nachzugehen.
 Um ein besseres Bild der Befragten zu bekommen, waren Fragen nach dem Alter, seit wann und wie oft sie Videospiele spielen sehr wichtig
 Die Leitfrage untersuchten wir mit Fragen nach dem Spiel mit der besten Story, wie wichtig Story in einem Videospiel ist und natürlich wie zufrieden sie mit der Story in heutigen Games sind.
-Wir haben die Umfrage in verschiedene Gaming-Foren gestellt, Auf Twitter und Facebook verbreitet und es an Freunde und Familie geschickt.
+Wir haben die Umfrage in verschiedene Gaming-Foren gestellt, auf Twitter und Facebook verbreitet und es an Freunde und Familie geschickt.
 Insgesamt haben über 100 Personen an der Umfrage teilgenommen.
 
 == Kritik der Umfrage
 
 Uns ist bewusst, dass diese Umfrage nicht repräsentativ ist, weil nur wenige Teilnehmer, die diese Umfrage auch selber beantworten (Selbstselektion) wollten teilnahmen.
-Die Selbstselektion ist unserer Meinung nach kein Problem, weil sich die Umfrage an Gamer wendet und darum auch nur Leute mit Affienität zum Spielen teilgenommen haben.
-Um die Qualität der Aussagen zu Quantifizieren haben wir den Standartfehler berrechnet, der Standartfehler ist zwei mal die Standartabweichung, die wir wie folgt berechnen: Wir nehmen an das die Antworten aus der Umfrage gleichartig und unabhängig voneinander sind und deshalb Binominal verteilt sind.
-Den Standartfehler kann man dann mit der Formel blavblabla ausrechnen.
-Dabei ist P der gemessene Parameter und n die grösse der Population.
-Die Standartabweichung verändert sich mit der grösse P.
-Für die verscheidenen Fragen in unserer Umfrage schwankt die Standartabweichung zwichen 0.029 (für grosse P) und 0.045 (für P nahe 0.5).
-Der Standartfehler ist also zwischen 0.04 und 0.09.
+Die Selbstselektion ist unserer Meinung nach kein Problem, weil sich die Umfrage an Gamer wendet und darum auch nur Leute mit Affinität zum Spielen teilgenommen haben.
+Um die Qualität der Aussagen zu Quantifizieren haben wir den Standardfehler berrechnet, der Standardfehler ist zwei mal die Standardabweichung, die wir wie folgt berechnen:
+Wir nehmen an das die Antworten aus der Umfrage gleichartig und unabhängig voneinander sind und deshalb Binominal verteilt sind.
+Den Standardfehler kann man dann mit der Formel blavblabla ausrechnen.
+Dabei ist P der gemessene Parameter und n die Grösse der Population.
+Die Standardabweichung verändert sich mit der grösse P.
+Für die verschiedenen Fragen in unserer Umfrage schwankt die Standardabweichung zwichen 0.029 (für grosse P) und 0.045 (für P nahe 0.5).
+Der Standardfehler ist also zwischen 0.04 und 0.09.
 Der einfachheit halber rechnen wir durchgehend mit einem Fehler von ≈ 0.075.
 
 == Analyse der Ergebnisse
 
 An unserer Umfrage haben 85% männliche Personen und 15% Weibliche Teilgenommen.
-Fast 80% der Teilnehemer waren über 23 Jahre alt davon 45% sogar über 30 Jahre alt.
-Wie man sieht ist der Hauptteil unseres Teilnehmerfeldes eher älter, was für uns gut ist, weil wir aus der Umfrage eine Einschätzung für das Gamen in den letzten 20 Jahren erhalten.
+Fast 80% der Teilnehemer waren über 23 Jahre alt, davon 45% sogar über 30 Jahre alt.
+Wie man sieht, ist der Hauptteil unseres Teilnehmerfeldes eher älter, was für uns gut ist, weil wir aus der Umfrage eine Einschätzung für das Gamen in den letzten 20 Jahren erhalten.
 Etwa 85% der Befragten haben bereits als Kinder unter 16 Jahren begonnen Videospiele zu spielen und ca. die Hälfte spielt heute noch täglich Videospiele.
 20% spielen heute nicht mehr regelmässig Videospiele.
 Für über 80% der Teilnehmer ist die Storyline in einem Videospiel wichtig.
@@ -41,20 +42,21 @@ Die meisten sagten, dass sie im Allgemeinen zufrieden sind mit Geschichten in ne
 Klar gab es auch Antworten, die sagten, dass sie nicht zufrieden sind und sogar eine die ganz unzufrieden ist.
 Was auch noch interessant war, das niemand die 10 angekreuzt hat, also keiner der Befragten ist zu 100% zufrieden, es hat Potential für Verbesserung.
 Cirka ein Drittel der Befragten erlebt eine Story lieber alleine in einem Singleplayer Spiel, wobei der Rest die Story auch gerne im Multiplayer mit Mitspielern erlebt.
-Was braucht eine gute Story, nun fast alle der Befragten waren sich einig, das gute Charakter und Spannung sehr wichtige Elemente eines Videospiels sind.
+Was braucht eine gute Story?
+Fast alle der Befragten waren sich einig, das gute Charakter und Spannung sehr wichtige Elemente eines Videospiels sind.
 Emotionen waren auch hoch dabei.
-Wir leisen den Teilnehemern die Wahl noch eigene Antworten zu dieser Frage zu schreiben und bekammen sehr viele einzelne Antworten.
+Wir liesen den Teilnehmern die Wahl noch eigene Antworten zu dieser Frage zu schreiben und bekammen sehr viele einzelne Antworten.
 Für eine Person war die Immersion sehr wichtig, also er will sich im Spiel verlieren und ganz in die Welt abtauchen.
 Eine sehr spannende Antwort war, das sich eine Person wünscht, dass der Spieler Ethische Fragen beantworten muss.
-Nun zum Schluss fragten wir welches Spiel die beste Story ihrer Meinung nach habe.
+Zum Schluss fragten wir welches Spiel die beste Story ihrer Meinung nach habe.
 Wir bekamen etliche Antworten und sehen einige verbindungen zu unserer Arbeit.
 Um die Antworten etwas zu Gliedern haben wir Spiele-Reihen als eine Antwort gesehen.
-Zudem haben wir Witz Antworten wie Candy Crush oder Tetris nicht zur Kenntnis genommen.
+Zudem haben wir Witz Antworten wie _Candy Crush_ oder _Tetris_ nicht zur Kenntnis genommen.
 Die absolute Top-Antwort war _The Witcher 3: Wild Hunt_ mit 14 Punkten.
 Die zweit meiste Antwort war die _Mass Effect_-Reihe (ohne _Mass Effect Andromeda_) mit 5 Punkten.
 _Half-Life 2_ und _The last of us_ Teilen sich den dritten Platz mit 4 Punkten.
 Danach gibt es sehr viele Antworten mit 3 Punkten wie _Life is Strange_, _Metal Gear Solid_-Reihe, _Day of the Tentacle_ und die _Untcharted_-Reihe.
-Da wir die Entwicklung untersuchen haben wir versucht die Spiele in die Jahre in der sie erscheinen sind zu gliedern.
+Da wir die Entwicklung untersuchen, haben wir versucht die Spiele in die Jahre in der sie erscheinen sind zu gliedern.
 Wir haben sie nach Jahrzehnte sortiert und sehr erstaunt gemerkt, dass die meisten der genannten Spiele in diesem Jahrzehnt erschienen sind.
 Das heisst die meisten Spiele die in unserer Umfrage genannt wurden sind nach 2010 entwickelt worden.
 Insgesamt wurden 22 Spiele aus den Jahren 2010-2018 genannt.
@@ -116,5 +118,5 @@ Wie wir sehen, geht es den Geschichten in Videospielen momentan sogar sehr gut.
 Über 22 Spiele die seit dem Jahr 2010 erschienen sind, wurden bei unserer Umfrage genannt.
 Davon waren zwei Spiele sogar aus dem Jahre 2017.
 _Divinity: Originial Sin 2_ und _What Remains of Edith Finch_.
-Zwei Spiele mit unglaublich guter Story die bereits einige dazu anregte es für das Spiel mit der besten Story zu halten.
+Zwei Spiele mit unglaublich guter Story die bereits einige dazu anregte, es für das Spiel mit der besten Story zu halten.
 Wir denken in Zukunft wird sich die Gaming-Industrie weiterentwickeln und weiterhin Spiele mit guter Story hervorbringen.
