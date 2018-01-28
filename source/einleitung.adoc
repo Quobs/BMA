@@ -1,8 +1,8 @@
 = Einleitung
 
-Das Oberthema der Berufsmaturitätsarbeit dieses Jahr lautet "Wandel".
-In dieser Arbeit untersuchen wir die Relevanz von Geschichte in Videospielen und ob sich diese in den letzten Jahren verändert hat.
-Um den Kontext für diese Fragestellung herzustellen, betrachten wir, wie Geschichten in Videospielen umgesetzt werden.
+Das Oberthema der Berufsmaturitätsarbeiten unserer Klasse lautet "Wandel".
+In dieser Arbeit untersuchen wir die Relevanz von Geschichten in Videospielen und ob sich diese in den letzten Jahren verändert hat.
+Um den Kontext für diese Fragestellung herzustellen, betrachten wir, wie Geschichten in Videospielen eingesetzt werden.
 Wir vergleichen es mit anderen Kustformen und geben zuätzlich einen kurzen Überblick über die Entwicklung der Videospiele.
 
 
@@ -13,7 +13,7 @@ Wir beide lieben so genannte Role-playing Games (RPG) und versuchten deshalb, di
 RPG's sind in den 80er und 90er Jahren gross geworden und prägten damals die Gaming Industrie.
 Wir sind beide Ende der 90er Jahre geboren und haben uns erst in unserer frühen Jugend mit Games befasst.
 Da wir deshalb viel Gaming Geschichte verpasst haben, betrachten wir in einem ersten Teil die Entwicklung der Videospiele, die Geschichten erzählen, von den Anfängen bis Heute.
-Zweitens versuchen wir mit einer Umfrage bei Spielern zu erfahren, wie diese zur Entwicklung der Story von Videospielen stehen.
+Dazu versuchen wir mit einer Umfrage bei Spielern zu erfahren, wie diese zur Entwicklung der Story von Videospielen stehen.
 
 
 == Fragestellung & Hypothese
@@ -21,11 +21,11 @@ Zweitens versuchen wir mit einer Umfrage bei Spielern zu erfahren, wie diese zur
 Man könnte viele Fragen stellen wie zum Beispiel:
 
 * Wohin entwickelt sich die Gaming-Industrie?
-* Wollen die Konsumenten Lieber eine packende Story oder einen tollen Online-Modus mit vielen Funktionen?
+* Wollen die Konsumenten lieber eine packende Story oder einen tollen Online-Modus mit vielen Funktionen?
 * Hat dieser Wunsch nach Neuem mit dem Alter der Spieler zu tun oder kann man das nicht so verallgemeinern?
 * Wenn dem so ist, wann hat dann diese neue Spiele-Ära begonnen und welche Altersgruppe ist am zufriedensten?
 
-Wir haben versucht, all diese Fragen in einer Frage zu formulieren.
+Wir haben versucht, all diese Fragen in einer Frage zu subsumieren.
 
 [quote]
 --
@@ -49,8 +49,7 @@ Als Techniken haben wir für diese Arbeit Literaturrecherche und eine Umfrage ge
 == Überblick über die Arbeit
 
 Im Kapitel "Geschichte von Videospielen" geben wir einen kurzen Überblick über das Thema Geschichte und wie diese in Videospiele umgesetzt werden.
-Zu dem untersuchen wir
-Im nächsten Kapitel "Die Entstehung von Geschichten in Videospielen" betrachten wir die Entwicklung von Videospielen von den 1970er Jahren bis zur heutigen Zeit.
+Zudem untersuchen wir im Kapitel "Die Entstehung von Geschichten in Videospielen" die Entwicklung von den 1970er Jahren bis zur heutigen Zeit.
 Dann folgt "Die Auswertung der Umfrage" in dem wir unsere Umfrage kritisch betrachten und daraus Schlüsse ziehen.
 Im Schlusswort ziehen wir ein Fazit.
 Im Anhang befindet sich Literaturverzeichnis, Danksagung und die Umfrage sowie ein Glossar in dem die englischen Begriffe erklärt werden.
