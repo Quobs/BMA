@@ -57,4 +57,20 @@ include::Literaturverzeichnis.adoc[]
 [glossary]
 == Glossar
 
-Begriff:: Definition des Begriffs
+Singleplayer:: Man spielt die Story alleine und offline, Fokus auf Story
+
+Multiplayer:: Man spielt online oder lokal mit anderen Leuten, meist keine Story
+
+Micro-Transactions:: Möglichkeit im Spiel für echtes Geld Dinge zu erwerben
+
+Cutscenes::	Zwischensequenzen, in denen Gameplay durch Film ersetzt wird
+
+Gameplay:: Alles was der Spieler macht (steuern, kämpfen, entscheiden etc.)
+
+RPG::	Role-Playing Games sind spiele in denen man nicht nur die Story spielt, sondern wirklich in die Rolle eintauchen muss (z.B. durch da treffen von Entscheidungen).
+
+Story-Line:: Die Geschichte, die Erzählt wird.
+
+Jump &Run::	Spiele in denen man Parcours mit Sprüngen meistert. (Super Mario)
+
+Plot:: Die Handlung
