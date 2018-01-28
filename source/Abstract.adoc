@@ -1,14 +1,14 @@
 = Abstract
 
-In dieser Arbeit befassten wir uns mit der Relevanz der Geschichten in Videospielen.
-Wir stellten die These auf, dass die Story, also die Handlung, von Videospielen immer mehr in den Hintergrund rückt.
-Unsere Fragsetllung war "Hat sich die Relevanz der Story-Line der Games in den letzten 20 Jahren verändert? "
-Der Zweck der Arbeit ist die Hypothese "Die Storyline von Videospielen ist in den letzten 20 Jahren für die Konsumenten weniger wichtig geworden" zu überprüfen.
+In dieser Arbeit befassen wir uns mit der Relevanz der Geschichten in Videospielen.
+Wir stellen die These auf, dass die Story, also die Handlung, von Videospielen immer mehr in den Hintergrund rückt.
+Unsere Fragestellung ist _"Hat sich die Relevanz der Story-Line der Games in den letzten 20 Jahren verändert?"_
+Der Zweck der Arbeit ist es, die Hypothese "Die Storyline von Videospielen ist in den letzten 20 Jahren für die Konsumenten weniger wichtig geworden" zu überprüfen.
 
-Um diese These zu untersuchen, machen wir eine Umfrage.
-Ebenfalls wollen wir mit dieser Arbeit denen, die sich nicht so mit der Thematik Videospiele auskennen, einen kleinen Einblick verschafften.
-Zusätzlich führen wir eine Literaturrecherche durch.
+Um diese These zu untersuchen, machen wir eine Online-Umfrage bei Personen, die Videospiele spielen.
+Ebenfalls wollen wir mit dieser Arbeit denen, die sich mit der Thematik Videospiele nicht auskennen, einen kleinen Einblick verschaffen.
+Dazu führen wir eine Literaturrecherche durch, um die Entwicklung von Videospielen und verschiedenen Arten von Geschichtenerzählung in Videospielen kennenzulernen.
 
-Die Ergebnisse der Umfrage konnten die These nicht unterstützen.
-Die Spieler scheien grossen wert auf die Geschichten in Videospielen zu legen.
-Somit vermuten wir, dass die Relevanz der Geschichten in Videopsielen nicht gesunken ist.
+Die Ergebnisse der Umfrage konnten unsere These nicht unterstützen.
+Die Spieler scheinen grossen Wert auf die Geschichten in Videospielen zu legen.
+Somit schliessen wir, dass die Relevanz der Geschichten in Videopsielen nicht gesunken ist.
