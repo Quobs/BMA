@@ -2,7 +2,7 @@
 
 Das Oberthema der Berufsmaturitätsarbeiten unserer Klasse lautet "Wandel".
 In dieser Arbeit untersuchen wir die Relevanz von Ge&#173;schich&#173;ten in Video&#173;spielen und ob sich diese in den letzten Jahren verändert hat.
-Um den Kontext für diese Fragestellung herzustellen, betrachten wir, wie Ge&#173;schich&#173;ten in Video&#173;spielen eingesetzt werden.
+Um den Kontext für diese Fragestellung herzustellen, be&#173;tracht&#173;en wir, wie Ge&#173;schich&#173;ten in Video&#173;spielen eingesetzt werden.
 Wir vergleichen es mit anderen Kustformen und geben zuätzlich einen kurzen Überblick über die Entwicklung der Video&#173;spiele.
 
 
@@ -12,8 +12,8 @@ Da wir beide leidenschaftliche Gamer sind, haben wir uns entschlossen das Thema 
 Wir beide lieben so genannte Role-playing Games (RPG) und versuchten deshalb, diese in unser Thema einzubauen.
 RPG's sind in den 80er und 90er Jahren gross geworden und prägten damals die Gaming Industrie.
 Wir sind beide Ende der 90er Jahre geboren und haben uns erst in unserer frühen Jugend mit Games befasst.
-Da wir deshalb viel Gaming Ge&#173;schich&#173;te verpasst haben, betrachten wir in einem ersten Teil die Entwicklung der Video&#173;spiele, die Ge&#173;schich&#173;ten erzählen, von den Anfängen bis Heute.
-Dazu versuchen wir mit einer Umfrage bei Spielern zu erfahren, wie diese zur Entwicklung der Story von Video&#173;spielen stehen.
+Da wir deshalb viel Gaming Ge&#173;schich&#173;te verpasst haben, be&#173;tracht&#173;en wir in einem ersten Teil die Entwicklung der Video&#173;spiele, die Ge&#173;schich&#173;ten er&#173;zähl&#173;en, von den Anfängen bis Heute.
+Dazu versuchen wir mit einer Umfrage bei Spie&#173;lern zu erfahren, wie diese zur Entwicklung der Story von Video&#173;spielen stehen.
 
 
 == Fragestellung & Hypothese
@@ -22,7 +22,7 @@ Man könnte viele Fragen stellen wie zum Beispiel:
 
 * Wohin entwickelt sich die Gaming-Industrie?
 * Wollen die Konsumenten lieber eine packende Story oder einen tollen Online-Modus mit vielen Funktionen?
-* Hat dieser Wunsch nach Neuem mit dem Alter der Spieler zu tun oder kann man das nicht so verallgemeinern?
+* Hat dieser Wunsch nach Neuem mit dem Alter der Spie&#173;ler zu tun oder kann man das nicht so verallgemeinern?
 * Wenn dem so ist, wann hat dann diese neue Spiele-Ära begonnen und welche Altersgruppe ist am zufriedensten?
 
 Wir haben versucht, all diese Fragen in einer Frage zu subsumieren.
@@ -32,14 +32,14 @@ Wir haben versucht, all diese Fragen in einer Frage zu subsumieren.
 Hat sich die Relevanz der Story-Line der Games in den letzten 20 Jahren verändert?
 --
 
-Unsere Hypothese ist, dass die Storyline in Video&#173;spielen in den letzten 20 Jahren für die Konsumenten/Spieler weniger wichtig geworden ist.
+Unsere Hypothese ist, dass die Storyline in Video&#173;spielen in den letzten 20 Jahren für die Konsumenten/Spie&#173;ler weniger wichtig geworden ist.
 Viele der heutigen Spiele verfügen über zwei unabhängige Modi.
-Im Singleplayer liegt der Fokus voll und ganz auf der Ge&#173;schich&#173;te, die der Spieler erlebt.
-Im Online-Modus wird die Spielwelt genommen und als Spieler bewegt man sich mit Mitspielern und gegnerischen Spielern in dieser Welt und versucht ein Ziel zu erreichen und (als Gruppe) zu gewinnen.
+Im Singleplayer liegt der Fokus voll und ganz auf der Ge&#173;schich&#173;te, die der Spie&#173;ler erlebt.
+Im Online-Modus wird die Spielwelt genommen und als Spie&#173;ler bewegt man sich mit Mitspie&#173;lern und gegnerischen Spie&#173;lern in dieser Welt und versucht ein Ziel zu erreichen und (als Gruppe) zu gewinnen.
 Die Ge&#173;schich&#173;te tritt dabei meist komplett in den Hintergrund.
 
-Viele Spiele, die Online gespielt werden, haben ein finanzielles Modell, bei dem der Spieler entweder monatliche Gebühren oder Micro-Transaktionen tätigt.
-Es ist vermutlich das Ziel der Hersteller, die Spieler möglichst lange an ihr Spiel zu binden um ihre Einnahmen zu maximieren.
+Viele Spiele, die Online gespielt werden, haben ein finanzielles Modell, bei dem der Spie&#173;ler entweder monatliche Gebühren oder Micro-Transaktionen tätigt.
+Es ist vermutlich das Ziel der Hersteller, die Spie&#173;ler möglichst lange an ihr Spiel zu binden um ihre Einnahmen zu maximieren.
 Das Ziel dieser Umfrage war es, mindestens 50 Gamer aus verschiedenen Altersgruppen zu fragen, was sie von unserer These halten und was ihrer Meinung nach wichtiger ist.
 
 == Arbeitsmethoden
@@ -50,6 +50,6 @@ Als Techniken haben wir für diese Arbeit Literaturrecherche und eine Umfrage ge
 
 Im Kapitel "Ge&#173;schich&#173;te von Video&#173;spielen" geben wir einen kurzen Überblick über das Thema Ge&#173;schich&#173;te und wie diese in Video&#173;spiele umgesetzt werden.
 Zudem untersuchen wir im Kapitel "Die Entstehung von Ge&#173;schich&#173;ten in Video&#173;spielen" die Entwicklung von den 1970er Jahren bis zur heutigen Zeit.
-Dann folgt "Die Auswertung der Umfrage" in dem wir unsere Umfrage kritisch betrachten und daraus Schlüsse ziehen.
+Dann folgt "Die Auswertung der Umfrage" in dem wir unsere Umfrage kritisch be&#173;tracht&#173;en und daraus Schlüsse ziehen.
 Im Schlusswort ziehen wir ein Fazit.
 Im Anhang befindet sich Literaturverzeichnis, die Danksagung, die Umfrage und deren Resultate sowie ein Glossar in dem die englischen Begriffe erklärt werden.

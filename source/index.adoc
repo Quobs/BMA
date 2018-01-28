@@ -1,4 +1,4 @@
-Wandel der Story-Relevanz in Video&#173;spielen
+Wandel der Story-Relevanz in Videospielen
 =========================================
 
 Tobias Fischer <tobias@invisible.ch>
@@ -58,14 +58,13 @@ include::auswertung.adoc[]
 [glossary]
 == Glossar
 
-Glossar
 Cutscenes::	Zwischensequenzen, in denen Gameplay durch Film ersetzt wird und die Story fortgeführt wird.
 
 Features:: 	Zusätzliche Funktionen.
 
-Gameplay::	Aktionen des Spielers, wie Steuerung, Kämpfe und Entscheidungen
+Gameplay::	Aktionen des Spie&#173;lers, wie Steuerung, Kämpfe und Entscheidungen
 
-Gamer::	Der Spieler/ der Konsument
+Gamer::	Der Spie&#173;ler/ der Konsument
 
 Games::	die Videospiele
 
@@ -75,16 +74,16 @@ Micro-Transactions::	Möglichkeit im Spiel für echtes Geld Dinge zu erwerben
 
 Multiplayer:: Man spielt online oder lokal mit anderen Leuten.
 
-Online Funktion:: 	Die Möglichkeit mit andern Spielern im Internet zu spielen.
+Online Funktion:: 	Die Möglichkeit mit andern Spie&#173;lern im Internet zu spielen.
 
-Online-Hype::	Die Freude an der Möglichkeit mit andern Spielern zu interagieren
+Online-Hype::	Die Freude an der Möglichkeit mit andern Spie&#173;lern zu interagieren
 
 RPG::	Role-Playing Games sind Spiele in denen man nicht nur die Story spielt, sondern wirklich in die Rolle eintauchen muss (z.B. durch das Treffen von Entscheidungen).
 
 Singleplayer::	Man spielt die Story alleine und offline. Der Fokus liegt auf der Story
 
-Story-Line (Story)::	Die Geschichte, die erzählt wird.
+Story-Line (Story)::	Die Ge&#173;schich&#173;te, die erzählt wird.
 
-Storytelling::	Die Art wie die Geschichte erzählt wird, zum Beispiel mit Büchern.
+Storytelling::	Die Art wie die Ge&#173;schich&#173;te erzählt wird, zum Beispiel mit Büchern.
 
 Trend:: Beobachtbare Entwicklung in Vorlieben der Konsumenten.
