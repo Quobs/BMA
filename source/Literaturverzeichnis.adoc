@@ -6,4 +6,6 @@
 
 - [[[booker2004]]], Booker, Christopher (2004), 'The seven basic plots: Why we tell stories', A&C Black.
 
+- [[[khanacademy]]], Kahnacdemy, 'One-sample confidence intervals', https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample (Abgerufen am 28.1.2018)
+
 - [[[pöhnert2005]]], Pöhnert, Julius (2005): 'Wechselspiele zwischen Film und Videogames - Die Ästhetik von Film, Videospiel und deren Adaptionen', München, GRIN Verlag, https://www.grin.com/document/42060 (Abgerufen am 14.01.2018)

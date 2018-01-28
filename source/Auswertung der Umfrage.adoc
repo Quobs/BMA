@@ -13,15 +13,23 @@ Insgesamt haben über 100 Personen an der Umfrage teilgenommen.
 
 Uns ist bewusst, dass diese Umfrage nicht repräsentativ ist, weil nur wenige Teilnehmer, die diese Umfrage auch selber beantworten (Selbstselektion) wollten teilnahmen.
 Die Selbstselektion ist unserer Meinung nach kein Problem, weil sich die Umfrage an Gamer wendet und darum auch nur Leute mit Affinität zum Spielen teilgenommen haben.
-Um die Qualität der Aussagen zu Quantifizieren haben wir den Standardfehler berrechnet, der Standardfehler ist zwei mal die Standardabweichung, die wir wie folgt berechnen:
-Wir nehmen an das die Antworten aus der Umfrage gleichartig und unabhängig voneinander sind und deshalb Binominal verteilt sind.
-Den Standardfehler kann man dann mit der Formel blavblabla ausrechnen.
-Dabei ist P der gemessene Parameter und n die Grösse der Population.
-Die Standardabweichung verändert sich mit der grösse P.
-Für die verschiedenen Fragen in unserer Umfrage schwankt die Standardabweichung zwichen 0.029 (für grosse P) und 0.045 (für P nahe 0.5).
-Der Standardfehler ist also zwischen 0.04 und 0.09.
-Der einfachheit halber rechnen wir durchgehend mit einem Fehler von ≈ 0.075.
-Das bedeutet das unsere Resulate mit einem Fehler von +/- 7.5% gelesen werden müssen.
+
+Um die Qualität der Aussagen zu Quantifizieren haben wir den Standardfehler und das Konfidenzintervall berechnet.
+Laut (<<khanacademy>>) beträgt der Standardfehler  zwei mal die Standardabweichung, die wir wie folgt berechnen:
+Wir nehmen an, das die Antworten aus der Umfrage gleichartig und unabhängig voneinander sind und deshalb Binominal verteilt sind.
+Den Standardfehler kann man aus der Standardabweichung ableiten, er beträgt 2 mal die Standardabweichung.
+Die Standardabweichung lässt sich mit der folgenden Formel berechnen.
+
+image::images/CodeCogsEqn.png[pdfwidth=25%,align=center]
+
+Dabei ist _p_ der gemessene Parameter (also z.B. 0.7, wenn 70% der Befragten eine entsprechende Frage beantworteten) und _n_ die Grösse der Population.
+Die Standardabweichung verändert sich mit der Grösse von _p_.
+Je extremer gegen 0 oder 1 ein gemessener Wert ist, desto kleiner ist die Standardabweichung.
+
+Für die verschiedenen Fragen in unserer Umfrage schwankt die Standardabweichung zwichen 0.029 (für grosse _p_) und 0.045 (für _p_ nahe 0.5).
+Der Standardfehler für die verschiedenen Resultate der Umfrage liegt also zwischen 0.04 und 0.09. (+/- 4% bis +/- 9%)
+Der Einfachheit halber rechnen wir durchgehend mit einem Fehler von ≈ 0.075.
+Das bedeutet, dass die Resultate mit einem Fehler von +/- 7.5% gelesen werden müssen.
 
 == Analyse der Ergebnisse
 
