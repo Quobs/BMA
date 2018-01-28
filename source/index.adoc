@@ -41,13 +41,14 @@ include::Schlusswort.adoc[]
 
 :numbered!:
 
+include::Literaturverzeichnis.adoc[]
+
+include::Danksagung.adoc[]
+
 include::umfrage.adoc[]
 
 include::auswertung.adoc[]
 
-
-
-include::Literaturverzeichnis.adoc[]
 
 
 // Return to normal title levels
