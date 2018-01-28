@@ -3,33 +3,33 @@
 == Geschichten gab es schon immer
 
 Wieso gibt es überhaupt eine Geschichte in Videogames?
-Nun Menschen haben schon immer Gefallen an interessanten Geschichten gezeigt.
-Menschen erzählen sich seit jeher Geschichten. In Theater, Kino, Gedichte, Literatur, Lieder und nun auch in Games.
+Menschen haben schon immer Gefallen an interessanten Geschichten gezeigt.
+Menschen erzählen sich seit jeher Geschichten. In Theater, Kino, Gedichte, Literatur, Lieder und nun auch in Spielen.
 Bereits die Höhlenmenschen zeichneten ihre Erlebnisse an die Wände.
-Im Mittelalter hat man Theaterstücke aufgeführt und Gedichte geschrieben.
-Es ist der Inhalt, der den Menschen packt und interessiert.
-Schon als Kinder liebten wir es Geschichten zu hören.
+Seit tausenden von Jahren hat man Theaterstücke aufgeführt und Gedichte geschrieben.
+Es ist die Geschicht, der den Menschen packt und interessiert.
+Schon Kinder lieben es Geschichten zu hören und daraus zu lernen.
 
-Im Buch "The Seven Basic Plots: Why We Tell Stories" von (<<Booker2004>>) schreibt er, es gibt sieben arten wie wir eine Handlung einer Geschichte erzählen.
+Im Buch "The Seven Basic Plots: Why We Tell Stories" von (<<Booker>>) schreibt er dass es sieben grundlegende Arten von Geschichten gibt auf die sich alle Geschichten zurückführen lassen.
 
-Das Monster überwinden:: Der Protagonist versucht eine meist böse Macht die ihn bedroht zu überwinden.
+Das Monster überwinden:: Der Protagonist versucht eine meist böse Macht, die ihn bedroht, zu überwinden.
 
-Von Lumpen zu Reichtum:: Der arme Protagonist bekommt Sachen wie Stärke, Geld, Macht nur um sie wieder zu verlieren um sie dann zurück zu bekommen nachdem er als Mensch gewachsen ist.
+Von Lumpen zu Reichtum:: Der arme Protagonist bekommt Dinge wie Stärke, Geld oder Macht nur um diese wieder zu verlieren und sie dann zurück zu bekommen, nachdem er als Mensch gewachsen ist.
 
-Die Aufgabe:: Der Protagonist und sein Gefolge versuchen ein wichtiges Objekt zu finden oder einen speziellen Ort zu erreichen. Auf der Reise müssen sie viele Gefahren und versuchungen zu überwinden.
+Die Aufgabe:: Der Protagonist und sein Gefolge versuchen ein wichtiges Objekt zu finden oder einen speziellen Ort zu erreichen. Auf der Reise müssen sie viele Gefahren und Versuchungen überwinden.
 
-Reise und Rückkehr:: Der Protagonist geht in ein fremdes Land, überwindet die Gefahren die auf ihn lauern und kehrt dann mit erfahrung zurück.
+Reise und Rückkehr:: Der Protagonist geht in ein fremdes Land, überwindet die Gefahren die auf ihn lauern und kehrt dann mit Erfahrung zurück.
 
-Komödie:: Leicht und Humorvoller Charakter mit einem glücklichen oder lustigem Ende.
+Komödie:: Leicht und humorvoller Charakter mit einem glücklichen oder lustigem Ende.
 
-Tragödie:: Der Protagonist ist ein Held mit einer offensichtlier Charakterschwäche oder einem grossen Fehler was am ende zu seinem untergang führt.
+Tragödie:: Der Protagonist ist ein Held mit einer offensichtlier Charakterschwäche oder einem grossen Fehler was am Ende zu seinem Untergang führt.
 
 Wiedergeburt:: Im Lauf der Geschichte zwingt ein Erignis den Protagonist seine Art zu ändern, was ihn oft zu einem besseren Menschen macht.
 
-Auch in Videospielen sind diese arten von Geschichten oft vertreten.
-Dabei tauchen am häufigsten das überwinden von Monstern auf.
-Auch die Aufgabe wird oft behandelt.
-Tragödien sind viel in neuen Adventures zu finden wie zum Beispiel _The walking Dead_
+Auch in Videospielen sind diese Arten von Geschichten oft vertreten.
+Dabei tauchen am häufigsten das "Überwinden von Monstern" auf.
+Auch "die Aufgabe" wird oft als Grundlage verwendet.
+Tragödien sind in neuen Adventures zu finden wie zum Beispiel _The walking Dead_.
 
 
 == Der Anfang von Geschichten in Videospielen
@@ -39,6 +39,9 @@ Das erste bekannte Adventure ist 1975 erscheinen es ist ein reines Textadventure
 Später kamen weiter Textadventures, besonders bekannt war die _Zork_-Reihe von der Firma Inform.
 In den 80er Jahren wurden dann Textadventures von Grafik-Adventures abgelöst.
 Mit den Grafik und Textadventures hat man dann angefangen in Games Geschichten zu erzählen und bald danach sind Role-Playing Games dazugekommen.
+
+.Die erste Szene in "Zork" (1980)
+image::images/zork.png[Zork,pdfwidth=50%,align=center]
 
 == Linearität
 
@@ -57,14 +60,29 @@ Es gibt auch Games die keine Story von einem Autor haben, sondern deren Geschich
 
 == Der Einfluss von Film
 
-Durch den technischen Fortschritt, vorallem im Bereich der Grafik, können Spiele immer neher an das visuelle Aussehen von Filmen kommen.
-Wie (<<Pöhnert2005>>) schreibt, wurden mit den immer besser werdender Technischen Gegebenheiten, immer längere und bessere Spielfilmartige Sequenzen möglich.
+Durch den technischen Fortschritt, vorallem im Bereich der Grafik, können Spiele immer näher an das visuelle Aussehen von Filmen kommen.
+Wie (<<Pöhnert>>) schreibt, wurden mit den immer besser werdenden technischen Gegebenheiten, immer längere und bessere spielfilmartige Sequenzen möglich.
 Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der Erzählung der Geschichte beitragen.
 
-Heute, 12 Jahre später sind die technischen Möglichkeiten so weiterentwickelt, dass es möglich ist, quasi realistische Bilder im eigentlichem Spiel zu haben.
+Heute, 12 Jahre später, sind die technischen Möglichkeiten so weiterentwickelt, dass es möglich ist, quasi realistische Bilder im eigentlichem Spiel zu haben.
 Zum Beispiel wird mit sogenantem "Motion capturing" das Aussehen und die Bewegung von Schauspielern aufgenommen.
 Die sich daraus ergebenen Daten machen es möglich, das sich eine Figur im Spiel natürlich bewegt, auch wenn die jeweilige Aktion oder Handlung nicht vorgegeben war.
-Weil es so ändlich ist wie Film ist es interessant was Filmregisseure dazu sagen,
+
+.Motion Capture für "Kingdom Come: Deliverance" (2017)
+image::images/mocap09.jpg[Motion Capture, pdfwidth=75%,align=center]
+
+.Kampfszene aus "Kingdom Come: Deliverance" (2017)
+image::images/highlightbild-kingdom-come-deliverance-alle-infos-bilder-videos_2465810.jpg[Kampfszene, pdfwidth=75%,align=center]
+
+
+
+gab es bereits eine 70-Jährige Filmgeschichte als die ersten Videospiele auftauchten.
+Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert.
+Da die technischen Möglichkeiten begrenzt waren mussten die Spieler mit viel Fantasy aufwenden um sich die Geschichte vorzustellen.
+Früher konnte man die Charaktere nur mit einem Punkt darstellen während wir heute Schauspieler für Spiele haben.
+Das heisst früher musste man die Geschichten mit Klötzen darstellen während wir heute Filmqualität in den Videospielen haben.
+
+Weil es so ähnlich ist wie Film ist es interessant was Filmregisseure dazu sagen,
 
 
 
