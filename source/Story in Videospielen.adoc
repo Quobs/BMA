@@ -134,14 +134,17 @@ You can’t plot out feeding Christians to lions.
 It’s not a plot."
 --
 
-
 Nun auch diese Aussage finden wir etwas fragwürdig.
 Für uns kann es auch in einem Spiel eine gute Handlung haben.
 Man nehme _The Witcher 3: The Wild Hunt_ als Beispiel, ein Spiel welches auf einem Roman basiert.
-Jedoch sind wir uns sicher das jeder der das Spiel gespielt und das Buch gelesen hat sagen wird das in dem Spiel die Story viel besser rüber kommt als im Buch.
-Die Geschichte des Spieles ist sehr vielfaltig.
-Es werden viele kurze Geschichten erzählt die auch zur Hauptgeschichte beitragen.
-Viele von diesen Geschichten fallen wieder in unser Schema, es gibt "Monster überwinden"-Storys, "Die Aufgabe"-Passagen und auch "Tragödien" werden erzählt.
-Es gibt auch sehr gute Beispiele von Spiele die nicht auf einem Buch basieren.
-Die _Mass Effect_-Reihe, welche auch klare verbindungen zu den oben erwähnten Handlungstypen aufweist.
-Wir stehen dammit im Wiederspruch zur Aussage von Lucas, denn wir finden das es auch in Videospielen einen "Plot" geben kann.
+Wir sind uns sicher, dass jeder der das Spiel gespielt und das Buch gelesen hat, sagen wird, dass die Story im Spiel viel besser vermittelt wird als im Buch.
+Die Geschichte des Spieles ist sehr vielfältig.
+Es werden viele kurze Geschichten erzählt, die auch zur Hauptgeschichte beitragen.
+Viele von diesen Geschichten fallen wieder in die oben genannten Schemata: es gibt "Monster überwinden"-Storys, "Die Aufgabe"-Passagen und auch "Tragödien" werden erzählt.
+
+.The Witcher 3 (2015)
+image::images/The-Witcher-3-einstieg.jpg[The Witcher,pdfwidth=75%,align=center]
+
+Es gibt auch sehr gute Beispiele von Spielem,  die nicht auf einem Buch basieren.
+Die _Mass Effect_-Reihe, welche sich auch an den verschienden Handlungstypen orientiert.
+Wir stehen damit im Widerspruch zur Aussage von Lucas, denn wir meinen, dass es durchaus auch in Videospielen einen "Plot" geben kann.
