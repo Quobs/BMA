@@ -9,7 +9,7 @@ Die Leitfrage untersuchten wir mit Fragen nach dem Spiel mit der besten Story, w
 Wir haben die Umfrage in verschiedene Gaming-Foren gestellt, auf Twitter und Facebook verbreitet und es an Freunde und Familie geschickt.
 Insgesamt haben über 100 Personen an der Umfrage teilgenommen.
 
-== Kritik der Umfrage
+== Kritische Betrachtung
 
 Uns ist bewusst, dass diese Umfrage nicht repräsentativ ist, weil nur wenige Teilnehmer, die diese Umfrage auch selber beantworten (Selbstselektion) wollten teilnahmen.
 Die Selbstselektion ist unserer Meinung nach kein Problem, weil sich die Umfrage an Gamer wendet und darum auch nur Leute mit Affinität zum Spielen teilgenommen haben.
@@ -21,6 +21,7 @@ Die Standardabweichung verändert sich mit der grösse P.
 Für die verschiedenen Fragen in unserer Umfrage schwankt die Standardabweichung zwichen 0.029 (für grosse P) und 0.045 (für P nahe 0.5).
 Der Standardfehler ist also zwischen 0.04 und 0.09.
 Der einfachheit halber rechnen wir durchgehend mit einem Fehler von ≈ 0.075.
+Das bedeutet das unsere Resulate mit einem Fehler von +/- 7.5% gelesen werden müssen.
 
 == Analyse der Ergebnisse
 
@@ -30,17 +31,19 @@ Wie man sieht, ist der Hauptteil unseres Teilnehmerfeldes eher älter, was für 
 Etwa 85% der Befragten haben bereits als Kinder unter 16 Jahren begonnen Videospiele zu spielen und ca. die Hälfte spielt heute noch täglich Videospiele.
 20% spielen heute nicht mehr regelmässig Videospiele.
 Für über 80% der Teilnehmer ist die Storyline in einem Videospiel wichtig.
+
 30% davon sehen die Storyline als wichtigstes Element an und für über 50% ist die Story wichtig, jedoch nicht das wichtigste.
 Die nächste Frage ist auch sehr spannend, wir fragten was in einem Spiel wichtiger sei, Story oder Gameplay.
 Etwa doppelt so viele Personen finden Gamplay wichtiger als Story.
 Bei der Frage wie diese Personen die Story erleben haben wir herausgefunden das etwa 80% der Befragten die Cutscenes und die Sprachausgabe ansehen.
 Da die Frage mehrere Antwortsmöglichkeiten hatte, haben wir zudem erfahren das 50% zudem nach Storyelementen wie Tagebücher oder Collectabels suchen.
 Nur etwa 10% ist eher uninteressiert an der Story eines Spiels.
+
 Nun kommt eine der wichtigsten Fragen der Umfrage, wir fragten:"Bist du mit der Storyline in Spielen seit 2012 zufrieden."
 Die Antwort hat uns sehr überrascht.
 Die meisten sagten, dass sie im Allgemeinen zufrieden sind mit Geschichten in neuen Videospielen.
 Klar gab es auch Antworten, die sagten, dass sie nicht zufrieden sind und sogar eine die ganz unzufrieden ist.
-Was auch noch interessant war, das niemand die 10 angekreuzt hat, also keiner der Befragten ist zu 100% zufrieden, es hat Potential für Verbesserung.
+
 Cirka ein Drittel der Befragten erlebt eine Story lieber alleine in einem Singleplayer Spiel, wobei der Rest die Story auch gerne im Multiplayer mit Mitspielern erlebt.
 Was braucht eine gute Story?
 Fast alle der Befragten waren sich einig, das gute Charakter und Spannung sehr wichtige Elemente eines Videospiels sind.
@@ -48,20 +51,36 @@ Emotionen waren auch hoch dabei.
 Wir liesen den Teilnehmern die Wahl noch eigene Antworten zu dieser Frage zu schreiben und bekammen sehr viele einzelne Antworten.
 Für eine Person war die Immersion sehr wichtig, also er will sich im Spiel verlieren und ganz in die Welt abtauchen.
 Eine sehr spannende Antwort war, das sich eine Person wünscht, dass der Spieler Ethische Fragen beantworten muss.
+
 Zum Schluss fragten wir welches Spiel die beste Story ihrer Meinung nach habe.
-Wir bekamen etliche Antworten und sehen einige verbindungen zu unserer Arbeit.
 Um die Antworten etwas zu Gliedern haben wir Spiele-Reihen als eine Antwort gesehen.
 Zudem haben wir Witz Antworten wie _Candy Crush_ oder _Tetris_ nicht zur Kenntnis genommen.
 Die absolute Top-Antwort war _The Witcher 3: Wild Hunt_ mit 14 Punkten.
 Die zweit meiste Antwort war die _Mass Effect_-Reihe (ohne _Mass Effect Andromeda_) mit 5 Punkten.
 _Half-Life 2_ und _The last of us_ Teilen sich den dritten Platz mit 4 Punkten.
 Danach gibt es sehr viele Antworten mit 3 Punkten wie _Life is Strange_, _Metal Gear Solid_-Reihe, _Day of the Tentacle_ und die _Untcharted_-Reihe.
+
 Da wir die Entwicklung untersuchen, haben wir versucht die Spiele in die Jahre in der sie erscheinen sind zu gliedern.
 Wir haben sie nach Jahrzehnte sortiert und sehr erstaunt gemerkt, dass die meisten der genannten Spiele in diesem Jahrzehnt erschienen sind.
 Das heisst die meisten Spiele die in unserer Umfrage genannt wurden sind nach 2010 entwickelt worden.
 Insgesamt wurden 22 Spiele aus den Jahren 2010-2018 genannt.
 Von 2000-2009 waren es 12 genannte Spiele, von 1990-1999 sechs Spiele und von 1980-1989 waren es noch zwei Spiele.
+
 Als nächstes Sortierten wir sie nach Genre.
+19 Adventures und 11 Rollenspiele wurden genannt.
+Dazu kammen noch drei Shooter sowie drei Jump'n'Run Spiele, zwei Strategie Spiele und eine Simulation.
+
+== Fazit
+
+Wie wir sehen, geht es den Geschichten in Videospielen momentan sogar sehr gut.
+Obwohl unser Teilnehmerfeld eher der älteren Gaming-Generation angehört wurden über 22 Spiele die seit dem Jahr 2010 erschienen sind gennant.
+Davon waren zwei Spiele sogar aus dem Jahre 2017.
+_Divinity: Originial Sin 2_ und _What Remains of Edith Finch_.
+Zwei Spiele mit unglaublich guter Story die bereits einige dazu anregte, es für das Spiel mit der besten Story zu halten.
+Hinzu kommt, dass der Hauptteil der Befragten eher zufrieden ist, mit der der Entwicklung der Geschichten in Videospielen.
+Die Variation von Geschichten ist unglaublich gross, es wurden sechs verschiedene Genres von Spielen genannt.
+Aber ganz klar bleiben die besten Geschichten bei ihren Wurzeln, bei den Adventures und bei den Rollenspielen.
+
 
 [cols="20,20,50,>10",options="header"]
 .Auswertung der genannten Spiele
@@ -111,12 +130,3 @@ Als nächstes Sortierten wir sie nach Genre.
 |             |           | Farcry 4                | 1
 |             | Jump & Run | Ori and the blind Forrest | 1
 |===
-
-19 Adventures und 11 Rollenspiele wurden genannt.
-Dazu kammen noch drei Shooter sowie drei Jump'n'Run Spiele, zwei Strategie Spiele und eine Simulation.
-Wie wir sehen, geht es den Geschichten in Videospielen momentan sogar sehr gut.
-Über 22 Spiele die seit dem Jahr 2010 erschienen sind, wurden bei unserer Umfrage genannt.
-Davon waren zwei Spiele sogar aus dem Jahre 2017.
-_Divinity: Originial Sin 2_ und _What Remains of Edith Finch_.
-Zwei Spiele mit unglaublich guter Story die bereits einige dazu anregte, es für das Spiel mit der besten Story zu halten.
-Wir denken in Zukunft wird sich die Gaming-Industrie weiterentwickeln und weiterhin Spiele mit guter Story hervorbringen.
