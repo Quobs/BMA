@@ -58,20 +58,33 @@ include::auswertung.adoc[]
 [glossary]
 == Glossar
 
-Singleplayer:: Man spielt die Story alleine und offline, Fokus auf Story
+Glossar
+Cutscenes::	Zwischensequenzen, in denen Gameplay durch Film ersetzt wird und die Story fortgeführt wird.
 
-Multiplayer:: Man spielt online oder lokal mit anderen Leuten, meist keine Story
+Features:: 	Zusätzliche Funktionen.
 
-Micro-Transactions:: Möglichkeit im Spiel für echtes Geld Dinge zu erwerben
+Gameplay::	Aktionen des Spielers, wie Steuerung, Kämpfe und Entscheidungen
 
-Cutscenes::	Zwischensequenzen, in denen Gameplay durch Film ersetzt wird
+Gamer::	Der Spieler/ der Konsument
 
-Gameplay:: Alles was der Spieler macht (steuern, kämpfen, entscheiden etc.)
+Games::	die Videospiele
 
-RPG::	Role-Playing Games sind spiele in denen man nicht nur die Story spielt, sondern wirklich in die Rolle eintauchen muss (z.B. durch da treffen von Entscheidungen).
+Jump &Run:: Spiele in denen man Parcours mit Sprüngen meistert. (Super Mario)
 
-Story-Line:: Die Ge&#173;schich&#173;te, die Erzählt wird.
+Micro-Transactions::	Möglichkeit im Spiel für echtes Geld Dinge zu erwerben
 
-Jump &Run::	Spiele in denen man Parcours mit Sprüngen meistert. (Super Mario)
+Multiplayer:: Man spielt online oder lokal mit anderen Leuten.
 
-Plot:: Die Handlung
+Online Funktion:: 	Die Möglichkeit mit andern Spielern im Internet zu spielen.
+
+Online-Hype::	Die Freude an der Möglichkeit mit andern Spielern zu interagieren
+
+RPG::	Role-Playing Games sind Spiele in denen man nicht nur die Story spielt, sondern wirklich in die Rolle eintauchen muss (z.B. durch das Treffen von Entscheidungen).
+
+Singleplayer::	Man spielt die Story alleine und offline. Der Fokus liegt auf der Story
+
+Story-Line (Story)::	Die Geschichte, die erzählt wird.
+
+Storytelling::	Die Art wie die Geschichte erzählt wird, zum Beispiel mit Büchern.
+
+Trend:: Beobachtbare Entwicklung in Vorlieben der Konsumenten.
