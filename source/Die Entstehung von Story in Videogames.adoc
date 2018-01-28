@@ -1,4 +1,4 @@
-= Die Entstehung von Storytelling in Videospielen
+= Die Entstehung von Storytelling in Video&#173;spielen
 
 
 == Dungeons and Dragons
@@ -11,7 +11,7 @@ Der Spieler schlüpft in eine fiktive Rolle und erlebt mit seinen Mitspielern ve
 Der Spielleiter ist wie der Erzähler in einem Buch oder Film und die Spieler verkörpern die Charaktere.
 Anstatt das vorgegeben ist wie sich die Charaktere verhalten und was sie als nächstes tun, entscheiden die Spieler selber, was sie als nächstes machen.
 Man sieht klare Zusammenhänge zu heutigen Role-playing Games.
-Wie wir bereits erklärten wird der Spieler zum Gestalter der Geschichte und erlebt die Geschichte gleichzeitig mit.
+Wie wir bereits erklärten wird der Spieler zum Gestalter der Ge&#173;schich&#173;te und erlebt die Ge&#173;schich&#173;te gleichzeitig mit.
 
 == Role-playing Games
 
@@ -24,7 +24,7 @@ Speicherplatz war zu dieser Zeit sehr wertvoll, deshalb hatten Universitäten ei
 Das heisst, dass fast alle zu dieser Zeit entwickelten Rollenspiele gelöscht wurden.
 Das älteste noch erhaltene Rollenspiel heisst "dnd" und wurde 1974 an der Universität Illinois entwickelt.
 Heute gibt es diese Rollenspiele immer noch, auch wenn das Genre nicht mehr so gross ist wie vor ein paar Jahren.
-Ein gutes Beispiel für ein Videospiel welches noch sehr klare Änlichkeiten mit "Dungeons and Dragons" hat ist "Divinity: Orignial Sin 2", welches im Herbst 2017 erschienen ist.
+Ein gutes Beispiel für ein Video&#173;spiel welches noch sehr klare Änlichkeiten mit "Dungeons and Dragons" hat ist "Divinity: Orignial Sin 2", welches im Herbst 2017 erschienen ist.
 Im Spiel gibt es sogar eine Funktion ein Pen and Paper Spiel mit seinen Freunden zu spielen.
 Der Stift und das Papier ist zwar nicht vorhanden aber dennoch ist es fast identisch zu dem Orginal.
 Man muss sich die Abenteuer nicht vorstellen, sondern man erlebt sie am Bildschirm mit.
@@ -46,12 +46,12 @@ In den 90er Jahren starb das Adventure Genre fast aus, weil durch technischen Fo
 Ego-Schooter wie Quake und Doom regierten den Markt.
 Im neuen Jahrtausend aber kamen die Adventures zurück auf die Bühne und feiern bis heute grosse Erfolge.
 Nicht nur das, gewisse gelten sogar als Kultklassiker.
-So auch The Walking Dead von Telltale Games, dies  ist ein episodisches Spiel, welches eine packende und Herz zerreissende Geschichte erzählt.
+So auch The Walking Dead von Telltale Games, dies  ist ein episodisches Spiel, welches eine packende und Herz zerreissende Ge&#173;schich&#173;te erzählt.
 Der Spieler wird gezwungen schwere Entscheidungen zu treffen, die Charaktere das Leben kosten könnten.
 
 == Interactive Fiction
 
-Interactive Fiction, auch bekannt als Textadventures, ist ein Spielegenre, indem man nur mit Hilfe von Texten eine Geschichte erzählt.
+Interactive Fiction, auch bekannt als Textadventures, ist ein Spielegenre, indem man nur mit Hilfe von Texten eine Ge&#173;schich&#173;te erzählt.
 Das Gameplay besteht dabei im Aussuchen von Antworten oder selber etwas einzugeben.
 Es gibt einen jährlichen Wettbewerb in dem gute Textadventures mit aussergewöhnlichen Erzählweisen, ausgezeichnet werden.
 Bekannte Beispiele dafür sind zum Beispiel, das 1988 erschienene Spiel namens _Corruption_, in welchem man als Insider einen Kriminalfall lösen musste.

@@ -4,8 +4,8 @@
 
 Unsere Fragestellung lautet: "Hat sich die Relevanz der Story-Line der Games in den letzten 20 Jahren verändert?"
 Wir haben versucht dieser Frage in unserer Umfrage nachzugehen.
-Um ein besseres Bild der Befragten zu bekommen, waren Fragen nach dem Alter, seit wann und wie oft sie Videospiele spielen, sehr wichtig.
-Die Leitfrage untersuchten wir mit Fragen nach dem Spiel mit der besten Story, wie wichtig Story in einem Videospiel ist und natürlich wie zufrieden sie mit der Story in heutigen Games sind.
+Um ein besseres Bild der Befragten zu bekommen, waren Fragen nach dem Alter, seit wann und wie oft sie Video&#173;spiele spielen, sehr wichtig.
+Die Leitfrage untersuchten wir mit Fragen nach dem Spiel mit der besten Story, wie wichtig Story in einem Video&#173;spiel ist und natürlich wie zufrieden sie mit der Story in heutigen Games sind.
 Wir haben die Umfrage in verschiedene Gaming-Foren gestellt, auf Twitter und Facebook verbreitet und es an Freunde und Familie geschickt.
 Insgesamt haben über 100 Personen an der Umfrage teilgenommen.
 
@@ -36,9 +36,9 @@ Das bedeutet, dass die Resultate mit einem Fehler von +/- 7.5% gelesen werden m�
 An unserer Umfrage haben 85% männliche und 15% weibliche Personen teilgenommen.
 Fast 80% der Teilnehmer waren über 23 Jahre alt, davon 45% sogar über 30 Jahre alt.
 Wie man sieht, ist der Hauptteil unseres Teilnehmerfeldes eher älter, was für uns gut ist, weil wir aus der Umfrage eine Einschätzung für das Gamen in den letzten 20 Jahren erhalten.
-Etwa 85% der Befragten haben bereits als Kinder unter 16 Jahren begonnen Videospiele zu spielen und ca. die Hälfte spielt heute noch täglich Videospiele.
-20% spielen heute nicht mehr regelmässig Videospiele.
-Für über 80% der Teilnehmer ist die Storyline in einem Videospiel wichtig.
+Etwa 85% der Befragten haben bereits als Kinder unter 16 Jahren begonnen Video&#173;spiele zu spielen und ca. die Hälfte spielt heute noch täglich Video&#173;spiele.
+20% spielen heute nicht mehr regelmässig Video&#173;spiele.
+Für über 80% der Teilnehmer ist die Storyline in einem Video&#173;spiel wichtig.
 
 30% davon sehen die Storyline als wichtigstes Element an und für über 50% ist die Story wichtig, jedoch nicht das wichtigste.
 Wir fragten, was in einem Spiel wichtiger sei, Story oder Gameplay.
@@ -49,12 +49,12 @@ Nur etwa 10% ist eher uninteressiert an der Story eines Spiels.
 
 Nun kommt eine der wichtigsten Fragen der Umfrage, wir fragten:"Bist du mit der Storyline in Spielen seit 2012 zufrieden?"
 Die Antwort hat uns sehr überrascht.
-Die meisten sagten, dass sie im Allgemeinen zufrieden sind mit Geschichten in neuen Videospielen.
+Die meisten sagten, dass sie im Allgemeinen zufrieden sind mit Ge&#173;schich&#173;ten in neuen Video&#173;spielen.
 Klar gab es auch Personen, die sagten, dass sie nicht zufrieden sind und sogar eine Person die ganz unzufrieden ist.
 
 Cirka ein Drittel der Befragten erlebt eine Story lieber alleine in einem Singleplayer Spiel, wobei der Rest die Story auch gerne im Multiplayer mit Mitspielern erlebt.
 Was braucht eine gute Story?
-Fast alle der Befragten waren sich einig, das gute Charakter und Spannung sehr wichtige Elemente eines Videospiels sind.
+Fast alle der Befragten waren sich einig, das gute Charakter und Spannung sehr wichtige Elemente eines Video&#173;spiels sind.
 Emotionen spielen ebenfalls eine grosse Rolle.
 Wir liesen den Teilnehmern die Wahl noch eigene Bemerkungen zu dieser Frage zu hinzuzufügen und bekamen sehr viele einzelne Antworten.
 Für eine Person war die Immersion sehr wichtig, also er will sich im Spiel verlieren und ganz in die Welt abtauchen.
@@ -80,14 +80,14 @@ Dazu kamen noch drei Shooter sowie drei Jump'n'Run Spiele, zwei Strategie Spiele
 
 == Fazit
 
-Die Auswertung der Umfrage ergibt, dass die Geschichten in Videospielen immernoch sehr beliebt sind.
+Die Auswertung der Umfrage ergibt, dass die Ge&#173;schich&#173;ten in Video&#173;spielen immernoch sehr beliebt sind.
 Obwohl unser Teilnehmerfeld eher der älteren Gaming-Generation angehört, wurden über 22 Spiele die seit dem Jahr 2010 erschienen sind genannt.
 Davon waren zwei Spiele sogar aus dem Jahre 2017.
 _Divinity: Originial Sin 2_ und _What Remains of Edith Finch_.
 Zwei Spiele mit unglaublich guter Story die bereits einige dazu anregte, es für das Spiel mit der besten Story zu halten.
-Hinzu kommt, dass der Hauptteil der Befragten eher zufrieden ist, mit der Entwicklung der Geschichten in Videospielen.
-Die Variation von Geschichten ist unglaublich gross, es wurden sechs verschiedene Genres von Spielen genannt.
-Aber ganz klar bleiben die besten Geschichten bei ihren Wurzeln, bei den Adventures und bei den Rollenspielen.
+Hinzu kommt, dass der Hauptteil der Befragten eher zufrieden ist, mit der Entwicklung der Ge&#173;schich&#173;ten in Video&#173;spielen.
+Die Variation von Ge&#173;schich&#173;ten ist unglaublich gross, es wurden sechs verschiedene Genres von Spielen genannt.
+Aber ganz klar bleiben die besten Ge&#173;schich&#173;ten bei ihren Wurzeln, bei den Adventures und bei den Rollenspielen.
 
 
 [cols="20,20,50,>10",options="header"]

@@ -1,4 +1,4 @@
-Wandel der Story-Relevanz in Videospielen
+Wandel der Story-Relevanz in Video&#173;spielen
 =========================================
 
 Tobias Fischer <tobias@invisible.ch>
@@ -70,7 +70,7 @@ Gameplay:: Alles was der Spieler macht (steuern, kämpfen, entscheiden etc.)
 
 RPG::	Role-Playing Games sind spiele in denen man nicht nur die Story spielt, sondern wirklich in die Rolle eintauchen muss (z.B. durch da treffen von Entscheidungen).
 
-Story-Line:: Die Geschichte, die Erzählt wird.
+Story-Line:: Die Ge&#173;schich&#173;te, die Erzählt wird.
 
 Jump &Run::	Spiele in denen man Parcours mit Sprüngen meistert. (Super Mario)
 

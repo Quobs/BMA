@@ -1,16 +1,16 @@
 = Story in Videogames
 
-== Geschichten gab es schon immer
+== Ge&#173;schich&#173;ten gab es schon immer
 
-Wieso gibt es überhaupt eine Geschichte in Videogames?
-Menschen haben schon immer Gefallen an interessanten Geschichten gezeigt.
-Menschen erzählen sich seit jeher Geschichten. In Theater, Kino, Gedichte, Literatur, Lieder und nun auch in Spielen.
+Wieso gibt es überhaupt eine Ge&#173;schich&#173;te in Videogames?
+Menschen haben schon immer Gefallen an interessanten Ge&#173;schich&#173;ten gezeigt.
+Menschen erzählen sich seit jeher Ge&#173;schich&#173;ten. In Theater, Kino, Gedichte, Literatur, Lieder und nun auch in Spielen.
 Bereits die Höhlenmenschen zeichneten ihre Erlebnisse an die Wände.
 Seit tausenden von Jahren hat man Theaterstücke aufgeführt und Gedichte geschrieben.
-Es ist die Geschichte, die den Menschen packt und interessiert.
-Schon Kinder lieben es Geschichten zu hören und daraus zu lernen.
+Es ist die Ge&#173;schich&#173;te, die den Menschen packt und interessiert.
+Schon Kinder lieben es Ge&#173;schich&#173;ten zu hören und daraus zu lernen.
 
-Im Buch "The Seven Basic Plots: Why We Tell Stories" von (<<Booker2004>>) wird beschrieben, dass es sieben grundlegende Arten gibt auf die sich alle Geschichten zurückführen lassen.
+Im Buch "The Seven Basic Plots: Why We Tell Stories" von (<<Booker2004>>) wird beschrieben, dass es sieben grundlegende Arten gibt auf die sich alle Ge&#173;schich&#173;ten zurückführen lassen.
 
 Das Monster überwinden:: Der Protagonist versucht eine meist böse Macht, die ihn bedroht, zu überwinden.
 
@@ -24,47 +24,47 @@ Komödie:: Leicht und humorvoller Charakter mit einem glücklichen oder lustigem
 
 Tragödie:: Der Protagonist ist ein Held mit einer offensichtlier Charakterschwäche oder einem grossen Fehler, was am Ende zu seinem Untergang führt.
 
-Wiedergeburt:: Im Lauf der Geschichte zwingt ein Ereignis den Protagonist seine Art zu ändern, was ihn oft zu einem besseren Menschen macht.
+Wiedergeburt:: Im Lauf der Ge&#173;schich&#173;te zwingt ein Ereignis den Protagonist seine Art zu ändern, was ihn oft zu einem besseren Menschen macht.
 
-Auch in Videospielen sind diese Arten von Geschichten oft vertreten.
+Auch in Video&#173;spielen sind diese Arten von Ge&#173;schich&#173;ten oft vertreten.
 Dabei tauchen am häufigsten das "Überwinden von Monstern" auf.
 Auch "die Aufgabe" wird oft als Grundlage verwendet.
 Tragödien sind in neuen Adventures zu finden wie zum Beispiel _The walking Dead_.
 
 
-== Der Anfang von Geschichten in Videospielen
+== Der Anfang von Ge&#173;schich&#173;ten in Video&#173;spielen
 
 Games haben vielleicht mit Geschicklichkeit und Denkspielen angefangen jedoch sind Adventures sehr schnell dazu gekommen.
 Das erste bekannte Adventure ist 1975 erschienen.
 Es ist ein reines Textadventure und heisst _Adventure_.
 Später kamen weiter Textadventures, besonders bekannt war die _Zork_-Reihe von der Firma Inform.
 In den 80er Jahren wurden dann Textadventures von Grafik-Adventures abgelöst.
-Mit den Grafik und Textadventures hat man dann angefangen in Games Geschichten zu erzählen und bald danach sind Role-Playing Games dazugekommen.
+Mit den Grafik und Textadventures hat man dann angefangen in Games Ge&#173;schich&#173;ten zu erzählen und bald danach sind Role-Playing Games dazugekommen.
 
 .Die erste Szene in "Zork" (1980)
 image::images/zork.png[Zork,pdfwidth=50%,align=center]
 
 == Linearität
 
-Im Theater oder in der Literatur wird eine Geschichte linear erzählt.
-Früher im greichischen Theater gab es eine Einheit von Raum und Zeit, dass heisst wenn das Theater zwei Stunden lang dauerte, so dauerte auch die Geschichte, die erzählt wird, zwei Stunden lang.
+Im Theater oder in der Literatur wird eine Ge&#173;schich&#173;te linear erzählt.
+Früher im greichischen Theater gab es eine Einheit von Raum und Zeit, dass heisst wenn das Theater zwei Stunden lang dauerte, so dauerte auch die Ge&#173;schich&#173;te, die erzählt wird, zwei Stunden lang.
 Später hat man mit Szenenwechsel Zeitsprünge vornehmen können.
 In Literatur, Theater und Film kann man mehrere Zeitebenen parallel erzählen.
-Dennoch wird die Geschichte vom Erzähler in einer vorgegeben Reihenfolge erzählt.
+Dennoch wird die Ge&#173;schich&#173;te vom Erzähler in einer vorgegeben Reihenfolge erzählt.
 In einem Spiel kann dies auch so geschehen, zusätzlich besteht die Möglichkeit dem Spieler die Steuerung des Geschichtsflusses zu ermöglichen.
-Man verändert die Geschichte je nach dem was man in dem Spiel macht.
-Zudem gibt es Spiele deren Geschichte durch die Handlungen des Spielers beinflusst werden oder erst durch diese entstehen, was einer non-linearer Geschichte entspricht.
-Für Storyteller ist es viel anspruchsvoller eine non-lineare Geschichte zu schreiben in dem sie dem Spieler die Entscheidung lassen was und wann er es erlebt.
+Man verändert die Ge&#173;schich&#173;te je nach dem was man in dem Spiel macht.
+Zudem gibt es Spiele deren Ge&#173;schich&#173;te durch die Handlungen des Spielers beinflusst werden oder erst durch diese entstehen, was einer non-linearer Ge&#173;schich&#173;te entspricht.
+Für Storyteller ist es viel anspruchsvoller eine non-lineare Ge&#173;schich&#173;te zu schreiben in dem sie dem Spieler die Entscheidung lassen was und wann er es erlebt.
 
-Es gibt auch Techniken, den Fluss einer dynamischen Geschichte so zu steuern, dass der Spieler den Hauptstrang so erlebt, wie es der Autor vorgesehen hat.
+Es gibt auch Techniken, den Fluss einer dynamischen Ge&#173;schich&#173;te so zu steuern, dass der Spieler den Hauptstrang so erlebt, wie es der Autor vorgesehen hat.
 Der Spieler muss zum Beispiel einen bestimmten Ort erreichen um in der Story weiter zu kommen.
-Es gibt auch Games die keine Story von einem Autor haben, sondern deren Geschichte automatisch, aufgrund von Aktionen und Reaktionen des Spielers generiert wird.
+Es gibt auch Games die keine Story von einem Autor haben, sondern deren Ge&#173;schich&#173;te automatisch, aufgrund von Aktionen und Reaktionen des Spielers generiert wird.
 
 == Der Einfluss von Film
 
 Durch den technischen Fortschritt, vorallem im Bereich der Grafik, können Spiele immer näher an das visuelle Aussehen von Filmen kommen.
 Wie (<<Pöhnert2005>>) schreibt, wurden mit den immer besser werdenden technischen Gegebenheiten, immer längere und bessere spielfilmartige Sequenzen möglich.
-Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der Erzählung der Geschichte beitragen.
+Diese Sequenzen nennt man auch 'Cutscenes', welche zur Belohnung des Spielers und auch der Erzählung der Ge&#173;schich&#173;te beitragen.
 
 Heute, 12 Jahre später, sind die technischen Möglichkeiten so weiterentwickelt, dass es möglich ist, quasi realistische Bilder im eigentlichem Spiel zu haben.
 Zum Beispiel wird mit sogenantem "Motion capturing" das Aussehen und die Bewegung von Schauspielern aufgenommen.
@@ -78,11 +78,11 @@ image::images/highlightbild-kingdom-come-deliverance-alle-infos-bilder-videos_24
 
 
 
-gab es bereits eine 70-Jährige Filmgeschichte als die ersten Videospiele auftauchten.
-Die ersten Videospiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Geschichte animiert.
-Da die technischen Möglichkeiten begrenzt waren mussten die Spieler mit viel Fantasy aufwenden um sich die Geschichte vorzustellen.
+gab es bereits eine 70-Jährige FilmGe&#173;schich&#173;te als die ersten Video&#173;spiele auftauchten.
+Die ersten Video&#173;spiele bedienen sich eines narrativen Rahmens, der den Spieler durch eine die Spielszenen ergänzende Ge&#173;schich&#173;te animiert.
+Da die technischen Möglichkeiten begrenzt waren mussten die Spieler mit viel Fantasy aufwenden um sich die Ge&#173;schich&#173;te vorzustellen.
 Früher konnte man die Charaktere nur mit einem Punkt darstellen während wir heute Schauspieler für Spiele haben.
-Das heisst früher musste man die Geschichten mit Klötzen darstellen während wir heute Filmqualität in den Videospielen haben.
+Das heisst früher musste man die Ge&#173;schich&#173;ten mit Klötzen darstellen während wir heute Filmqualität in den Video&#173;spielen haben.
 
 Weil es so ähnlich ist wie Film ist es interessant was Filmregisseure dazu sagen.
 
@@ -104,20 +104,20 @@ It’s simply a game."
 --
 
 Wir verstehen was uns Lucas hier sagen will, jedoch sehen wir dies etwas anders.
-Es ist nicht einfach nur ein Spiel, sondern der Spieler selber wird zum gestallter der Geschichte und kann diese erleben wie er es für sich persönlich gerne hätte.
-Der Spieler wird teilweise sogar dazu animiert, die Geschichte des Spieles selber zu gestallten oder herauszufinden.
+Es ist nicht einfach nur ein Spiel, sondern der Spieler selber wird zum gestallter der Ge&#173;schich&#173;te und kann diese erleben wie er es für sich persönlich gerne hätte.
+Der Spieler wird teilweise sogar dazu animiert, die Ge&#173;schich&#173;te des Spieles selber zu gestallten oder herauszufinden.
 Somit gibt es sehr viele Interpretationen, auch in der Literatur oder im Film wird etwas ändliches gemacht.
-Man lässt die Geschichte offen und lässt die Leser und die Betrachter spekulieren was passieren könnte.
-Dadurch öffnet man eine völlig neue herangehensweise an die Geschichte und ob dies in einem Spiel oder einem Film passiert ist nicht relevant.
+Man lässt die Ge&#173;schich&#173;te offen und lässt die Leser und die Betrachter spekulieren was passieren könnte.
+Dadurch öffnet man eine völlig neue herangehensweise an die Ge&#173;schich&#173;te und ob dies in einem Spiel oder einem Film passiert ist nicht relevant.
 Zum Beispiel in der Fernseh-Serie _Game of Thrones_, nach jeder Staffel gibt es im Internet aber tausende Theorien was nun als nächstes in der Serie passieren könnte oder wie die Serie enden wird.
 
-Dasselbe gibt es auch in Videospielen, in _World of Warcraft_, welches eine immer weitergehende Geschichte besitzt, werden immer wieder Theorien aufgestellt was mit den Charakteren und der Spielwelt als nächstes passiert.
-In _World of Warcraft_ ist die Art wie die Geschichte erzählt wird sehr speziell.
+Dasselbe gibt es auch in Video&#173;spielen, in _World of Warcraft_, welches eine immer weitergehende Ge&#173;schich&#173;te besitzt, werden immer wieder Theorien aufgestellt was mit den Charakteren und der Spielwelt als nächstes passiert.
+In _World of Warcraft_ ist die Art wie die Ge&#173;schich&#173;te erzählt wird sehr speziell.
 Der Spieler ist ein teil der Spielwelt und hat auch Einfluss auf diese.
 Im Jahr 2017 ist das neue Erweiterungs-Paket für _World of Warcraft_ erschienen.
 Die Spieler machten sich auf den Weg neue Ort zu entdecken, Stärker zu werden und neue Verbündete zu gewinnen.
-Die Geschichte von _World of Warcraft_ ist eine Klassische "Monster überwinden"-Story, jedoch gibt es nicht nur einen Protagonisten sondern die Spieler müssen zusammen gegen die Monster kämpfen.
-Wir sehen das so, dass dies auch eine Geschichte ist und nicht nur ein Spiel, auch wenn jeder das machen kann was er will.
+Die Ge&#173;schich&#173;te von _World of Warcraft_ ist eine Klassische "Monster überwinden"-Story, jedoch gibt es nicht nur einen Protagonisten sondern die Spieler müssen zusammen gegen die Monster kämpfen.
+Wir sehen das so, dass dies auch eine Ge&#173;schich&#173;te ist und nicht nur ein Spiel, auch wenn jeder das machen kann was er will.
 
 
 George Lucas sagte auch (ebenda):
@@ -141,13 +141,13 @@ Nun auch diese Aussage finden wir etwas fragwürdig.
 Für uns kann es auch in einem Spiel eine gute Handlung haben.
 Man nehme _The Witcher 3: The Wild Hunt_ als Beispiel, ein Spiel welches auf einem Roman basiert.
 Wir sind uns sicher, dass jeder der das Spiel gespielt und das Buch gelesen hat, sagen wird, dass die Story im Spiel viel besser vermittelt wird als im Buch.
-Die Geschichte des Spieles ist sehr vielfältig.
-Es werden viele kurze Geschichten erzählt, die auch zur Hauptgeschichte beitragen.
-Viele von diesen Geschichten fallen wieder in die oben genannten Schemata: es gibt "Monster überwinden"-Storys, "Die Aufgabe"-Passagen und auch "Tragödien" werden erzählt.
+Die Ge&#173;schich&#173;te des Spieles ist sehr vielfältig.
+Es werden viele kurze Ge&#173;schich&#173;ten erzählt, die auch zur HauptGe&#173;schich&#173;te beitragen.
+Viele von diesen Ge&#173;schich&#173;ten fallen wieder in die oben genannten Schemata: es gibt "Monster überwinden"-Storys, "Die Aufgabe"-Passagen und auch "Tragödien" werden erzählt.
 
 .The Witcher 3 (2015)
 image::images/The-Witcher-3-einstieg.jpg[The Witcher,pdfwidth=75%,align=center]
 
 Es gibt auch sehr gute Beispiele von Spielen,  die nicht auf einem Buch basieren.
 Die _Mass Effect_-Reihe, welche sich auch an den verschiedenen Handlungstypen orientieren.
-Wir stehen damit im Widerspruch zur Aussage von Lucas, denn wir meinen, dass es durchaus auch in Videospielen einen "Plot" geben kann.
+Wir stehen damit im Widerspruch zur Aussage von Lucas, denn wir meinen, dass es durchaus auch in Video&#173;spielen einen "Plot" geben kann.
