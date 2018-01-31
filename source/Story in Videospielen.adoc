@@ -4,7 +4,7 @@
 
 Wieso gibt es überhaupt eine Ge&#173;schich&#173;te in Videogames?
 Menschen haben schon immer Gefallen an interessanten Ge&#173;schich&#173;ten gezeigt.
-Menschen er&#173;zähl&#173;en sich seit jeher Ge&#173;schich&#173;ten. In Theater, Kino, Gedichte, Literatur, Lieder und nun auch in Spielen.
+Menschen er&#173;zähl&#173;en sich seit jeher Ge&#173;schich&#173;ten. Im Theater, Kino, in Gedichte, in der Literatur, in Liedern und nun auch in Spielen.
 Bereits die Höhlenmenschen zeichneten ihre Erlebnisse an die Wände.
 Seit tausenden von Jahren hat man Theaterstücke aufgeführt und Gedichte geschrieben.
 Es ist die Ge&#173;schich&#173;te, die den Menschen packt und interessiert.
@@ -36,7 +36,7 @@ Tragödien sind in neuen Adven&#173;tures zu finden wie zum Beispiel _The walkin
 
 Die ersten Spiele waren Geschicklichkeits- und Denkspiele.
 Bald sind Ad&#173;ventures dazu gekommen.
-Das erste bekannte Adventure ist 1975 er&#173;sch&#173;ienen.
+Das erste bekannte Adventure (Adventures oder Abenteuerspiele bezeichnen ein bestimmtes Genre von Videospielen, in welchem das Hauptprinzip eine zu Grunde liegende Geschichte durch Erkundung und das Lösen von Rätseln ist) ist 1975 er&#173;sch&#173;ienen.
 Es ist ein reines Textadventure und heisst _Adventure_.
 Später kamen weiter Text&#173;adventures, besonders bekannt war die _Zork_-Reihe der Firma Infocom.
 In den 80er Jahren wurden dann Text&#173;adventures von Grafik-Adventures abgelöst.
@@ -55,7 +55,7 @@ Dennoch wird die Ge&#173;schich&#173;te vom Erzähler in einer vorgegebenen Reih
 In einem Spiel kann dies auch so ge&#173;sche&#173;hen, zusätzlich besteht die Möglichkeit dem Spie&#173;ler die Steuerung des Geschichts&#173;flusses zu er&#173;möglichen.
 
 Man verändert die Ge&#173;schich&#173;te je nach dem, was mal als Spie&#173;ler in dem Spiel macht.
-Zudem gibt es Spiele deren Ge&#173;schich&#173;te durch die Handlungen des Spie&#173;lers beinflusst werden oder erst durch diese entstehen, was einer non-linearer Ge&#173;schich&#173;te entspricht.
+Zudem gibt es Spiele deren Ge&#173;schich&#173;te durch die Handlungen des Spie&#173;lers beeinflusst werden oder erst durch diese entstehen, was einer non-linearer Ge&#173;schich&#173;te entspricht.
 Für Story&#173;teller ist es viel anspruchsvoller eine non-lineare Ge&#173;schich&#173;te zu schreiben in dem sie dem Spie&#173;ler die Entscheidung lassen was und wann er es erlebt.
 
 Es gibt auch Techniken, den Fluss einer dynamischen Ge&#173;schich&#173;te so zu steu&#173;ern, dass der Spie&#173;ler den Hauptstrang so erlebt, wie es der Autor vor&#173;ge&#173;sehen hat.
@@ -79,7 +79,7 @@ image::images/mocap09.jpg[Motion Capture, pdfwidth=75%,align=center]
 image::images/highlightbild-kingdom-come-deliverance-alle-infos-bilder-videos_2465810.jpg[Kampfszene, pdfwidth=75%,align=center]
 
 
-Weil unterdessen Spiele eine grosse Ähnlichkeit mit dem Film haben, ist es interessant was zu sehen, was Filmregisseure zu Spielen sagen.
+Weil unterdessen Spiele eine grosse Ähnlichkeit mit dem Film haben, ist es interessant zu sehen, was Filmregisseure zu Spielen sagen.
 
 
 == Filmregisseure über Games
@@ -100,13 +100,14 @@ It’s simply a game."
 Wir verstehen, was uns Lucas hier sagen will, jedoch sehen wir dies etwas anders.
 Es ist nicht einfach nur ein Spiel, sondern der Spie&#173;ler selber wird zum Gestalter der Ge&#173;schich&#173;te und kann diese erleben wie er es für sich persönlich gerne hätte.
 Der Spie&#173;ler wird teilweise sogar dazu animiert, die Ge&#173;schich&#173;te des Spieles selber zu gestalten oder herauszufinden.
-Somit gibt es sehr viele Interpretationen, auch in der Literatur oder im Film wird etwas ähmliches gemacht.
+Somit gibt es sehr viele Interpretationen, auch in der Literatur oder im Film wird etwas ähnliches gemacht.
 Man lässt die Ge&#173;schich&#173;te offen und lässt die Leser und die Betrachter spekulieren was passieren könnte.
 Dadurch öffnet man eine völlig neue He&#173;ran&#173;gehens&#173;weise an die Ge&#173;schich&#173;te.
-Ob dies in einem Spiel oder einem Film passiert ist nicht relevant.
-Zum Beispiel in der Fernseh-Serie _Game of Thrones_, nach jeder Staffel gibt es im Internet viele Theorien darüber, was nun als nächstes in der Serie passieren könnte oder wie die Serie Enden wird.
+Ob dies in einem Spiel oder einem Film passiert, ist nicht relevant.
+Zum Beispiel in der Fernseh-Serie _Game of Thrones_, nach jeder Staffel gibt es im Internet viele Theorien darüber, was nun als nächstes in der Serie passieren könnte oder wie die Serie enden wird.
 
-Dasselbe gibt es auch in Video&#173;spielen, in _World of Warcraft_, dass eine immer weitergehende Ge&#173;schich&#173;te besitzt, werden immer wieder Theorien aufgestellt was mit den Charakteren und der Spielwelt als nächstes passiert.
+Dasselbe gibt es auch in Video&#173;spielen.
+In _World of Warcraft_, dass eine immer weitergehende Ge&#173;schich&#173;te besitzt, werden immer wieder Theorien aufgestellt, was mit den Charakteren und der Spielwelt als nächstes passiert.
 In _World of Warcraft_ ist die Art wie die Ge&#173;schich&#173;te erzählt wird sehr speziell.
 Der Spie&#173;ler ist ein Teil der Spielwelt und hat auch Einfluss auf diese.
 Im Jahr 2017 ist das neue Erweiterungs-Paket für _World of Warcraft_ erschienen.
@@ -137,12 +138,12 @@ Für uns kann es auch in einem Spiel eine gute Handlung haben.
 Man nehme _The Witcher 3: The Wild Hunt_ als Beispiel, ein Spiel welches auf einem Roman basiert.
 Wir sind uns sicher, dass jeder der das Spiel gespielt und das Buch gelesen hat, sagen wird, dass die Story im Spiel viel besser vermittelt wird als im Buch.
 Die Ge&#173;schich&#173;te des Spieles ist sehr vielfältig.
-Es werden viele kurze Ge&#173;schich&#173;ten erzählt, die auch zur HauptGe&#173;schich&#173;te beitragen.
+Es werden viele kurze Ge&#173;schich&#173;ten erzählt, die auch zur Hauptge&#173;schich&#173;te beitragen.
 Viele von diesen Ge&#173;schich&#173;ten fallen wieder in die oben genannten Schemata: es gibt "Monster überwinden"-Storys, "Die Aufgabe"-Passagen und auch "Tragödien" werden erzählt.
 
 .The Witcher 3 (2015)
 image::images/The-Witcher-3-einstieg.jpg[The Witcher,pdfwidth=75%,align=center]
 
 Es gibt auch sehr gute Beispiele von Spielen,  die nicht auf einem Buch basieren.
-Die _Mass Effect_-Reihe, welche sich auch an den verschiedenen Handlungstypen orientieren.
+Die _Mass Effect_-Reihe, (Bekannte Videospielreihe) welche sich auch an den verschiedenen Handlungstypen orientieren.
 Wir stehen damit im Widerspruch zur Aussage von Lucas, denn wir meinen, dass es durchaus auch in Video&#173;spielen einen "Plot" geben kann.
