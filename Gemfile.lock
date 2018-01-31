@@ -69,6 +69,7 @@ GEM
     sprockets (3.7.1)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
+    text-hyphen (1.4.1)
     thread_safe (0.3.6)
     treetop (1.5.3)
       polyglot (~> 0.3)
@@ -82,6 +83,7 @@ DEPENDENCIES
   asciidoctor-latex
   asciidoctor-mathematical
   asciidoctor-pdf
+  text-hyphen
 
 BUNDLED WITH
    1.16.0

@@ -2,13 +2,13 @@
 
 == Prozess
 
-Zeitmanagement war eines der grössten Probleme dass wir hatten.
+Zeitmanagement war eines der grössten Probleme, dass wir hatten.
 Ich persönlich bin schon immer eher ein Chaot gewesen und bin nicht sehr gut darin, mir meine Zeit einzuteilen.
 Damit ich die Arbeit dennoch fertigmachen konnte, ohne in der letzten Woche die Nächte durchzuarbeiten, bat ich meine Mutter um Hilfe.
 Sie half mir, einen Zeitplan für die letzten 3 Wochen vor Abgabe zu machen.
 Es war ein strikter Zeitplan, den ich einhalten musste.
 Anfangs hat es sehr gut funktioniert.
-Dananach vernachlässigte ich den Plan wieder, da ich an ein paar tagen keine Zeit dazu hatte.
+Dananach vernachlässigte ich den Plan wieder, da ich an ein paar Tagen keine Zeit hatte an der Arbeit zu schreiben..
 Dennoch musste ich an zwei Wochenenden sehr viel schreiben und korrigieren.
 Bessonders das letzte Wochenende vor der Abgabe war sehr anstrengend.
 Ich habe an beiden Tagen über sechs Stunden an der Arbeit gearbeitet und auch mein Vater hat mir an diesen Tagen geholfen.
@@ -16,7 +16,7 @@ Er korrigierte meine Rechtschreibungsfehler und gab mir Tipps was ich noch ände
 Da wir mehrer Male unser Thema wechselten und nie wirklich sicher waren, was wir genau tun sollten haben wir auch nie einen definitiven Zeitplan erstellt.
 Für mich persöndlich war die Rechtschreibung auch ein sehr grosses Problem.
 Bei den Korrekturen brauchte ich sehr viel Hilfe.
-Dazu kam das ich vor Weihnachten eine Operation am Steis hatte, was mich daran hinderte an der Arbeit konzentriert zu arbeiten.
+Dazu kam das ich vor Weihnachten eine Operation am Steiss hatte, was mich daran hinderte an der Arbeit konzentriert zu arbeiten.
 Durch die Schmerzen konnte ich in den Weihnachtsferien nicht an der Arbeit schreiben.
 Dies war ein Problem da der Abgabe Termin immer näher rückte.
 
@@ -31,16 +31,16 @@ Ich konnte sehr viel aus unseren Gesprächen in die Arbeit einfliessen lassen.
 Als ich merkte das ich in einen guten Schreibfluss kam, wurde ich noch motivierter die Arbeit zu schreiben.
 Mich freute sehr, dass die Zitate in der Arbeit so gut aussehen.
 Wir arbeiteten nicht mit Word, sondern mit Atom welches ein reiner Text-Editor ist.
-Dies hilf mir dabei mich aufs schreiben zu Konzentrieren.
-Ausserdem gab es mit Atom die Möglich keit auf eine Versionskontrollsystem, welches uns erlaubt unsere Texte schnell hin und her zu schicken.
-Atom war auch sehr hilfreich bei der Formation der Arbeit, da mit ein paar klicks die Formation gemacht wurde, automatisch.
+Dies hilft mir dabei, mich nur auf das Schreiben zu konzentrieren.
+Ausserdem speicherten wir alle Änderungen in eiem Versionskontrollsystem, welches uns erlaubt unsere Texte schnell hin und her zu schicken und garantierte, dass nichts verloren ging.
+Der Text wurde in einem speziellen Format (asciidoc) geschrieben und zum Schluss vollautomatisch formatiert und als PDF gespeichert.
 
 == Zusammenarbeit
 
 Die Zusammenarbeit haperte sehr in unserem Team.
 Unser Zeitmanagement war sehr schlecht und auch die Kommunikation war problematisch.
 Anfangs wussten wir gar nicht was wir eigentlich machen sollten und machten nichts dagegen.
-Die Texte von Tenzin haben oft den anvorderungen nicht entsporchen und mussten deshalb umgeschreiben werden.
+Die Texte von Tenzin haben oft den Anforderungen nicht entsporchen und mussten deshalb umgeschrieben werden.
 Dazu kam das Tenzin für die Einleitung und das Abstract verantwortlich war.
 Als ich die Einleitung und das Abstract anschaute, wurde mir klar, dass ich fast alles umschreiben muss.
 Auch die anderen Teile der Arbeit waren sehr umgangssprachlich geschrieben.
