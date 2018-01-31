@@ -1,7 +1,5 @@
 = Reflexion von Tobias Fischer
 
-TODO: Einleitung
-
 == Prozess
 
 Zeitmanagement war eines der grössten Probleme dass wir hatten.
@@ -10,16 +8,12 @@ Damit ich die Arbeit dennoch fertigmachen konnte, ohne in der letzten Woche die 
 Sie half mir, einen Zeitplan für die letzten 3 Wochen vor Abgabe zu machen.
 Es war ein strikter Zeitplan, den ich einhalten musste.
 Anfangs hat es sehr gut funktioniert.
-
-TODO: Und dann?
-
+Dananach vernachlässigte ich den Plan wieder, da ich an ein paar tagen keine Zeit dazu hatte.
 Dennoch musste ich an zwei Wochenenden sehr viel schreiben und korrigieren.
 Bessonders das letzte Wochenende vor der Abgabe war sehr anstrengend.
 Ich habe an beiden Tagen über sechs Stunden an der Arbeit gearbeitet und auch mein Vater hat mir an diesen Tagen geholfen.
 Er korrigierte meine Rechtschreibungsfehler und gab mir Tipps was ich noch ändern oder anpassen könnte.
-
 Da wir mehrer Male unser Thema wechselten und nie wirklich sicher waren, was wir genau tun sollten haben wir auch nie einen definitiven Zeitplan erstellt.
-
 Für mich persöndlich war die Rechtschreibung auch ein sehr grosses Problem.
 Bei den Korrekturen brauchte ich sehr viel Hilfe.
 Dazu kam das ich vor Weihnachten eine Operation am Steis hatte, was mich daran hinderte an der Arbeit konzentriert zu arbeiten.
@@ -33,27 +27,20 @@ Mit einer besseren Planung und ohne Rückschläge in Themenwahl oder wegen den g
 Dennoch bin ich im Grossen und Ganzen zufrieden mit der Arbeit.
 Ich hatte auch Spass die Arbeit zu schreiben, auch wenn es sehr lange dauerte.
 Bessonders Spass machten mir die Diskussionen mit meinem Vater.
-
-TODO: Wieso?
-
+Ich konnte sehr viel aus unseren Gesprächen in die Arbeit einfliessen lassen.
 Als ich merkte das ich in einen guten Schreibfluss kam, wurde ich noch motivierter die Arbeit zu schreiben.
 Mich freute sehr, dass die Zitate in der Arbeit so gut aussehen.
-
-TODO: Schreib noch was über den Arbeitsprozess - wie, womit, Versionskontrolle,
+Wir arbeiteten nicht mit Word, sondern mit Atom welches ein reiner Text-Editor ist.
+Dies hilf mir dabei mich aufs schreiben zu Konzentrieren.
+Ausserdem gab es mit Atom die Möglich keit auf eine Versionskontrollsystem, welches uns erlaubt unsere Texte schnell hin und her zu schicken.
+Atom war auch sehr hilfreich bei der Formation der Arbeit, da mit ein paar klicks die Formation gemacht wurde, automatisch.
 
 == Zusammenarbeit
 
 Die Zusammenarbeit haperte sehr in unserem Team.
 Unser Zeitmanagement war sehr schlecht und auch die Kommunikation war problematisch.
 Anfangs wussten wir gar nicht was wir eigentlich machen sollten und machten nichts dagegen.
-Leider hat Tenzin das Dossier, welches wir von der Schule bekommen haben, warscheinlich nicht ein einziges mal durchgelesen.
-
-TODO: Kannst Du so nicht schreiben....
-
-Was ich schnell merkte da fast gar nichts den Vorgaben entsprach.
-
-TODO: Du hast sie aber auch nicht gelesen gehabt...
-
+Die Texte von Tenzin haben oft den anvorderungen nicht entsporchen und mussten deshalb umgeschreiben werden.
 Dazu kam das Tenzin für die Einleitung und das Abstract verantwortlich war.
 Als ich die Einleitung und das Abstract anschaute, wurde mir klar, dass ich fast alles umschreiben muss.
 Auch die anderen Teile der Arbeit waren sehr umgangssprachlich geschrieben.
@@ -65,11 +52,7 @@ Ich habe ihn zu mir eingeladen, um die Arbeit zusammen zu überarbeiten, jedoch 
 
 == Erkenntnisse
 
-Mir wurde klar, dass ich klare Probleme im Zeitmanagement habe.
-
-TODO: Dass hast Du jetzt 3 mal gesagt - ich würde es streichen
-
-Jedoch liegt mir das Schreiben, da ich zwar lange an der Arbeit geschrieben habe, aber ich nie die Lust daran verloren habe.
+Mir liegt das Schreiben, da ich zwar lange an der Arbeit geschrieben habe, aber ich nie die Lust daran verloren habe.
 Ich würde sagen, dass ich sehr gut am Ball bleiben kann, wenn ich mal angefangen habe zu schreiben.
 Anfangs war ich zu leichtsinnig und habe mich nicht sehr auf die Arbeit konzentriert.
 Schnell merkte ich das es so nicht weiter geht und ich mich mehr auf die Arbeit konzentriern muss.
@@ -79,18 +62,12 @@ Auch meine Sprache war zu Beginn sehr umgangssprachlich und nicht gut für eine 
 
 Ich sehe meine Stärke aber darin, dass ich am Ball geblieben bin und die Arbeit fertig geschrieben habe.
 Ausserdem konnte ich mich gut in das Thema einlesen und fand dies auch sehr spannend.
-
-TODO: Was hast Du persönlich daraus gelernt?
-
-In Zukunft würde ich eine wissenschaftliche Arbeit nie wieder zu zweit schreiben.
-
-TODO: Nie?
+Ich habe durch meine Recherche sehr viel neues im Bereich Gaming gelernt.
+Nicht nur Gameing sondern zu Storytelling habe ich viele neue Sachen gelernt.
+In Zukunft würde ich eine wissenschaftliche Arbeit ungerne wieder zu zweit schreiben.
 
 Es gibt zu viele Störfaktoren und am Schluss schreibt eine Person fast die ganze Arbeit alleine.
 Ich muss mich ganz klar noch im Zeitmamagement verbessern, dazu sollte ich auch an meiner Rechtschreibung und meiner Kommunikation mit Teammitglider arbeiten.
 Ich würde bei einer nächsten Arbeit klar definieren, was genau ich mache.
-Einen guten Zeitplan erstellen und möglichst gut mit den Teammitglieder in Kontakt bleiben.
-
-TODO: Wiederholung - und oben hast Du gesagt: NIE wieder
-
+Einen guten Zeitplan erstellen und möglichst gut mit den Teammitglieder in Kontakt bleiben fals ich nochmal eine Arbeit in einem Team schreiben würde.
 Dazu werde ich den Zeitplan in einer weiteren Arbeit strikter einhalten und befolgen.
