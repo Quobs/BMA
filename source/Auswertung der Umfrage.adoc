@@ -51,13 +51,13 @@ Die Antwort hat uns sehr überrascht.
 Die meisten sagten, dass sie im Allgemeinen mit den Ge&#173;schich&#173;ten in neuen Video&#173;spielen zufrieden sind.
 Klar gab es auch Personen, die sagten, dass sie nicht zufrieden sind und sogar eine Person die ganz unzufrieden ist.
 
-Cirka ein Drittel der Befragten erlebt eine Story lieber alleine in einem Singleplayer Spiel, wobei der Rest die Story auch gerne im Multiplayer mit Mitspie&#173;lern erlebt.
+Cirka ein Drittel der Befragten erlebt eine Story lieber alleine in einem Single&#173;player Spiel, wobei der Rest die Story auch gerne im Multi&#173;player mit Mitspie&#173;lern erlebt.
 
 Was braucht eine gute Story?
 Fast alle der Befragten waren sich einig, das gute Charakter und Spannung sehr wichtige Elemente eines Video&#173;spiels sind.
 Emotionen spielen ebenfalls eine grosse Rolle.
-Wir liessen den Teilnehmern die Wahl noch eigene Bemerkungen zu dieser Frage hinzuzufügen und bekamen sehr viele einzelne Antworten.
-Für eine Person war die Immersion sehr wichtig, also er will sich im Spiel verlieren und ganz in die Welt abtauchen.
+Wir liessen den Teilnehmern die Wahl noch eigene Bemerkungen zu dieser Frage hinzuzufügen und be&#173;kamen sehr viele einzelne Antworten.
+Für eine Person war die Immersion sehr wichtig, also er will sich im Spiel verlieren und ganz in die Welt ab&#173;tauchen.
 Eine sehr spannende Antwort war, das sich eine Person wünscht, dass der Spie&#173;ler ethische Fragen beantworten muss.
 
 Zum Schluss fragten wir, welches Spiel die beste Story ihrer Meinung nach habe.
@@ -66,7 +66,7 @@ Zudem haben wir Witz-Antworten wie _Candy Crush_ oder _Tetris_ nicht zur Kenntni
 Die absolute Top-Antwort war _The Witcher 3: Wild Hunt_ mit 14 Punkten.
 Die zweitmeiste Antwort war die _Mass Effect_-Reihe (ohne _Mass Effect Andromeda_) mit 5 Punkten.
 _Half-Life 2_ und _The last of us_ teilen sich den dritten Platz mit 4 Punkten.
-Danach gibt es sehr viele Antworten mit 3 Punkten wie _Life is Strange_, _Metal Gear Solid_-Reihe, _Day of the Tentacle_ und die _Untcharted_-Reihe.
+Danach gibt es sehr viele Antworten mit 3 Punkten wie _Life is Strange_, _Metal Gear Solid_-Reihe, _Day of the Tentacle_ und die _Uncharted_-Reihe.
 
 Da wir die Entwicklung untersuchen, haben wir versucht die Spiele chronologisch nach Erscheinungsjahr zu gliedern.
 Wir haben sie nach Jahr&#173;zehnten sortiert und sehr erstaunt gemerkt, dass die meisten der genannten Spiele in diesem Jahrzehnt erschienen sind.
@@ -91,7 +91,7 @@ Aber ganz klar bleiben die besten Ge&#173;schich&#173;ten bei ihren Wurzeln, bei
 
 <<<
 
-[cols="20,20,50,>10",options="header"]
+[cols="20,20,45,>15",options="header"]
 .Auswertung der genannten Spiele
 |===
 | Erschienen   | Genre | Titel | Punkte

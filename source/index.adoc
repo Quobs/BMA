@@ -39,12 +39,19 @@ include::Auswertung der Umfrage.adoc[]
 
 include::Schlusswort.adoc[]
 
-:numbered!:
-
 include::Literaturverzeichnis.adoc[]
 
 include::Danksagung.adoc[]
 
+= Eigenständigkeitserklärungen
+
+Tobias
+
+<<<
+
+Tenzin
+
+:numbered!:
 include::umfrage.adoc[]
 
 include::auswertung.adoc[]
@@ -76,9 +83,12 @@ Multiplayer:: Man spielt online oder lokal mit anderen Leuten.
 
 Online Funktion:: 	Die Möglichkeit mit andern Spie&#173;lern im Internet zu spielen.
 
+<<<
 Online-Hype::	Die Freude an der Möglichkeit mit andern Spie&#173;lern zu interagieren
 
 RPG::	Role-Playing Games sind Spiele in denen man nicht nur die Story spielt, sondern wirklich in die Rolle eintauchen muss (z.B. durch das Treffen von Entscheidungen).
+
+RTS:: Real-Time Strategy Game sind Spiele, bei denen man in Echtzeit strategische Entscheidungen treffen muss (oft Kampfsimulationen)
 
 Singleplayer::	Man spielt die Story alleine und offline. Der Fokus liegt auf der Story
 

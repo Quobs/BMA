@@ -1,10 +1,9 @@
-[appendix]
 = Danksagung
 
 An dieser Stelle möchten wir uns ganz herzlich bei unserer Betreuerin, Patrizia Luperti, für ihren Einsatz und ihre Unterstützung bedanken.
 
-Unserer Lehrperson Micha Ruflin für seine Konstruktive Kritik, die er uns in seinem Untericht gab, möchten wir auch danken.
+Unserer Lehrperson Micha Ruflin für seine konstruktive Kritik, die er uns in seinem Untericht gab, möchten wir auch danken.
 
-Wir bedanken uns auch bei allen Personen die an unsere Umfrage Teilgenommen haben.
+Wir bedanken uns auch bei allen Personen die an unsere Umfrage teil&#173;ge&#173;nommen haben.
 
-Tobias bedankt sich ganz besonders bei seinen Eltern, Daniela Vogt und Jens-Christian Fischer die ihn unterstüzt haben und immer für Fragen offen waren.
+Tobias bedankt sich ganz besonders bei seinen Eltern, Daniela Vogt und Jens-Christian Fischer, die ihn unterstützt haben und immer für Fragen offen waren.
